@@ -12,20 +12,6 @@ Processamento de Imagem: OpenCV (cv2)
 
 Ferramenta de Rotulagem: LabelMe
 
-Estrutura de Diretórios
-
-ModeloProduto/
-├── dataset_yolo/          # Dataset formatado para treino (images/ e labels/)
-├── Fotos11Marco/          # Imagens brutas e arquivos .json gerados na inferência
-├── runs/
-│   ├── detect/            # Resultados dos treinos e pesos (best.pt / last.pt)
-│   └── inferencia_teste/  # Imagens anotadas (apenas caixas) para inspeção visual
-├── main.py                # Script de treinamento do modelo YOLO11
-├── inferencia.py          # Script de predição e exportação JSON (LabelMe)
-├── classes.txt            # Lista oficial das 75 classes do projeto
-└── README.md              # Documentação do projeto
-
-
 Instalação
 
 Clone o repositório e acesse a pasta do projeto:
