@@ -1,0 +1,67 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "MineiroZero2L",
+      "confidence": 0.8797,
+      "points": [
+        [
+          212.2139892578125,
+          312.56982421875
+        ],
+        [
+          269.40826416015625,
+          507.2047119140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZero2L",
+      "confidence": 0.8053,
+      "points": [
+        [
+          274.37799072265625,
+          312.456298828125
+        ],
+        [
+          326.37713623046875,
+          509.012451171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6065,
+      "points": [
+        [
+          164.41619873046875,
+          543.0523681640625
+        ],
+        [
+          226.929443359375,
+          581.6566162109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128335_603968.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

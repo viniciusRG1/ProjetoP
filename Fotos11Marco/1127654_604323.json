@@ -1,0 +1,523 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FardoGuaranaZeroMineiroLata",
+      "confidence": 0.9449,
+      "points": [
+        [
+          228.63150024414062,
+          415.5940856933594
+        ],
+        [
+          287.0113220214844,
+          449.6877136230469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.935,
+      "points": [
+        [
+          241.84725952148438,
+          272.333984375
+        ],
+        [
+          261.16143798828125,
+          296.0728759765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.9173,
+      "points": [
+        [
+          222.95811462402344,
+          271.88446044921875
+        ],
+        [
+          242.74940490722656,
+          295.95892333984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoGuaranaZeroMineiroLata",
+      "confidence": 0.9151,
+      "points": [
+        [
+          228.50030517578125,
+          378.54486083984375
+        ],
+        [
+          287.93255615234375,
+          416.31634521484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9035,
+      "points": [
+        [
+          188.51280212402344,
+          237.0721435546875
+        ],
+        [
+          206.6567840576172,
+          276.531982421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoGuaranaZeroMineiroLata",
+      "confidence": 0.8871,
+      "points": [
+        [
+          228.99078369140625,
+          449.2167663574219
+        ],
+        [
+          286.17620849609375,
+          483.9202575683594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.8732,
+      "points": [
+        [
+          226.51856994628906,
+          62.93212890625
+        ],
+        [
+          245.0569610595703,
+          86.44905090332031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8514,
+      "points": [
+        [
+          185.99508666992188,
+          126.25634002685547
+        ],
+        [
+          205.77053833007812,
+          166.67669677734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8449,
+      "points": [
+        [
+          171.3581085205078,
+          238.02371215820312
+        ],
+        [
+          189.6634063720703,
+          275.0391540527344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8341,
+      "points": [
+        [
+          169.11029052734375,
+          21.69892120361328
+        ],
+        [
+          188.04339599609375,
+          62.06035614013672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8095,
+      "points": [
+        [
+          187.0879364013672,
+          21.821468353271484
+        ],
+        [
+          205.43495178222656,
+          62.74355697631836
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7713,
+      "points": [
+        [
+          152.464599609375,
+          20.460325241088867
+        ],
+        [
+          169.85833740234375,
+          61.95228576660156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.767,
+      "points": [
+        [
+          167.87234497070312,
+          125.96874237060547
+        ],
+        [
+          187.11880493164062,
+          166.34112548828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.7599,
+      "points": [
+        [
+          260.8941345214844,
+          272.432861328125
+        ],
+        [
+          280.4975280761719,
+          296.1636962890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7527,
+      "points": [
+        [
+          205.823486328125,
+          237.20437622070312
+        ],
+        [
+          223.58453369140625,
+          276.6269836425781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7436,
+      "points": [
+        [
+          153.9735107421875,
+          238.26605224609375
+        ],
+        [
+          172.56103515625,
+          274.56585693359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.7315,
+      "points": [
+        [
+          243.31216430664062,
+          166.08901977539062
+        ],
+        [
+          263.8258972167969,
+          189.84414672851562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7272,
+      "points": [
+        [
+          204.6192626953125,
+          126.77560424804688
+        ],
+        [
+          224.6744384765625,
+          166.8792724609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaTonicaMineiraLata",
+      "confidence": 0.709,
+      "points": [
+        [
+          156.91583251953125,
+          334.7491455078125
+        ],
+        [
+          230.9268798828125,
+          379.18603515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoGuaranaZeroMineiroLata",
+      "confidence": 0.7076,
+      "points": [
+        [
+          229.7194366455078,
+          483.6273193359375
+        ],
+        [
+          287.07440185546875,
+          516.852783203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7008,
+      "points": [
+        [
+          204.99075317382812,
+          21.715042114257812
+        ],
+        [
+          224.00167846679688,
+          63.89790344238281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7003,
+      "points": [
+        [
+          151.41098022460938,
+          125.90348052978516
+        ],
+        [
+          168.86785888671875,
+          165.94613647460938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.6982,
+      "points": [
+        [
+          187.6232147216797,
+          166.75930786132812
+        ],
+        [
+          205.3532257080078,
+          188.97964477539062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "confidence": 0.6762,
+      "points": [
+        [
+          367.1290283203125,
+          339.86138916015625
+        ],
+        [
+          445.635498046875,
+          383.33441162109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.6536,
+      "points": [
+        [
+          171.94070434570312,
+          260.669189453125
+        ],
+        [
+          189.69540405273438,
+          295.8092041015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "confidence": 0.6255,
+      "points": [
+        [
+          357.83819580078125,
+          483.48492431640625
+        ],
+        [
+          430.56304931640625,
+          515.4309692382812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.6077,
+      "points": [
+        [
+          204.94424438476562,
+          166.83370971679688
+        ],
+        [
+          222.43710327148438,
+          189.47958374023438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127654_604323.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

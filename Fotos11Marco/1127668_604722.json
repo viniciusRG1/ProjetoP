@@ -1,0 +1,105 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "aguaAdv500ml",
+      "confidence": 0.8729,
+      "points": [
+        [
+          175.1421661376953,
+          0.080718994140625
+        ],
+        [
+          212.6417999267578,
+          93.03164672851562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv500ml",
+      "confidence": 0.8486,
+      "points": [
+        [
+          129.86642456054688,
+          0.0
+        ],
+        [
+          176.30648803710938,
+          91.12523651123047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv500ml",
+      "confidence": 0.7192,
+      "points": [
+        [
+          219.14443969726562,
+          0.0
+        ],
+        [
+          261.8816223144531,
+          95.2596664428711
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.7014,
+      "points": [
+        [
+          120.18553924560547,
+          258.0797119140625
+        ],
+        [
+          172.394775390625,
+          387.5391845703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv500ml",
+      "confidence": 0.6455,
+      "points": [
+        [
+          259.45965576171875,
+          0.0
+        ],
+        [
+          294.35736083984375,
+          95.92704010009766
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127668_604722.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

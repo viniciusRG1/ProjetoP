@@ -1,0 +1,732 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.9662,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          33.531494140625,
+          166.741943359375
+        ],
+        [
+          71.95407104492188,
+          293.7196350097656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9629,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          69.07339477539062,
+          170.973388671875
+        ],
+        [
+          103.36579895019531,
+          299.332275390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8735,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          98.92054748535156,
+          172.4295654296875
+        ],
+        [
+          133.6540985107422,
+          305.15997314453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8564,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          0.0602569580078125,
+          152.56588745117188
+        ],
+        [
+          38.593231201171875,
+          291.27655029296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8438,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          275.02569580078125,
+          181.27505493164062
+        ],
+        [
+          317.51776123046875,
+          323.49188232421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8085,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          239.0906982421875,
+          179.52349853515625
+        ],
+        [
+          276.67724609375,
+          321.57696533203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7952,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          317.01812744140625,
+          181.68731689453125
+        ],
+        [
+          361.28070068359375,
+          327.18023681640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.744,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          357.25946044921875,
+          181.01583862304688
+        ],
+        [
+          404.50128173828125,
+          331.1487121582031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7301,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          222.43951416015625,
+          484.2394104003906
+        ],
+        [
+          262.29473876953125,
+          619.3248291015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6534,
+      "label": "FrutaMineiro2L",
+      "points": [
+        [
+          166.33529595118057,
+          171.7559814453125
+        ],
+        [
+          203.58248833399307,
+          314.33544921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6153,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          417.781982421875,
+          6.446502685546875
+        ],
+        [
+          465.9302978515625,
+          142.80880737304688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5785,
+      "label": "GuaranaAdv2L",
+      "points": [
+        [
+          176.96554565429688,
+          325.9111328125
+        ],
+        [
+          215.15139770507812,
+          441.6572265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5648,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          257.0318603515625,
+          507.27874755859375
+        ],
+        [
+          300.50048828125,
+          633.6122436523438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5355,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          332.0444329140712,
+          347.4141825312761
+        ],
+        [
+          377.1784661171962,
+          472.76409708205733
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5354,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          138.22427368164062,
+          313.90155029296875
+        ],
+        [
+          180.8302001953125,
+          435.71368408203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5114,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          0.7118797302246094,
+          302.95001220703125
+        ],
+        [
+          27.305122494432055,
+          410.75723830734967
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5062,
+      "label": "GuaranaAdv1L",
+      "points": [
+        [
+          312.82891845703125,
+          24.70184326171875
+        ],
+        [
+          350.60699462890625,
+          145.26243591308594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4908,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          449.06597900390625,
+          180.28472900390625
+        ],
+        [
+          479.85052490234375,
+          335.59722900390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4823,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          181.63906860351562,
+          460.5635986328125
+        ],
+        [
+          225.34872436523438,
+          610.96533203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4518,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          75.86392567046238,
+          312.4650885703038
+        ],
+        [
+          117.5055679287305,
+          428.5746102449889
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4467,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          291.007568359375,
+          338.12689208984375
+        ],
+        [
+          333.318115234375,
+          461.51495361328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4462,
+      "label": "MineiroZero2L",
+      "points": [
+        [
+          404.0813293457031,
+          181.20018005371094
+        ],
+        [
+          450.7318420410156,
+          335.74658203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4323,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          20.300280734531555,
+          300.0629238476997
+        ],
+        [
+          56.25835189309578,
+          405.18930957683745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4285,
+      "label": "FrutaMineiro2L",
+      "points": [
+        [
+          135.5772372715192,
+          174.3750908730556
+        ],
+        [
+          172.90774264261296,
+          313.03716973047744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3895,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          142.32583618164062,
+          438.0519714355469
+        ],
+        [
+          188.52597045898438,
+          599.27294921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3635,
+      "label": "GuaranaAdv2L",
+      "points": [
+        [
+          177.22483825683594,
+          326.9765319824219
+        ],
+        [
+          215.3605194091797,
+          440.4583435058594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3385,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          403.93585205078125,
+          180.4397735595703
+        ],
+        [
+          452.15899658203125,
+          334.53253173828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3341,
+      "label": "mineirobaby",
+      "points": [
+        [
+          94.0096435546875,
+          0.0
+        ],
+        [
+          117.77880859375,
+          13.256433486938477
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3285,
+      "label": "FrutaMineiro2L",
+      "points": [
+        [
+          202.33599853515625,
+          174.72845458984375
+        ],
+        [
+          242.024658203125,
+          318.95477294921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3098,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          375.6102294921875,
+          345.8104248046875
+        ],
+        [
+          424.974365234375,
+          453.9361572265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4323,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          48.13992438709283,
+          308.9716098165193
+        ],
+        [
+          78.53006681514478,
+          412.98440979955456
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5354,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          215.06169016270962,
+          328.3781649923006
+        ],
+        [
+          252.249443207127,
+          451.95991091314033
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5354,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          250.69643403798807,
+          331.718922230608
+        ],
+        [
+          293.30236055165994,
+          453.5310560196705
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3635,
+      "label": "GuaranaAdv2L",
+      "points": [
+        [
+          421.1001166532725,
+          345.9074896661635
+        ],
+        [
+          471.62583518930956,
+          487.5946547884187
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5062,
+      "label": "GuaranaAdv1L",
+      "points": [
+        [
+          351.80441957061703,
+          21.361086023411403
+        ],
+        [
+          389.58249574249203,
+          141.9216786747786
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8438,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          302.3608017817372,
+          522.1158129175947
+        ],
+        [
+          342.01664764472264,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5355,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          342.0667046289933,
+          511.1112872083362
+        ],
+        [
+          387.2007378321183,
+          636.4612017591174
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3635,
+      "label": "GuaranaAdv2L",
+      "points": [
+        [
+          432.6503340757238,
+          525.456570155902
+        ],
+        [
+          480.0,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127585_604018.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

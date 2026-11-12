@@ -1,0 +1,580 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.964,
+      "points": [
+        [
+          161.65145874023438,
+          180.09463500976562
+        ],
+        [
+          187.38516235351562,
+          231.623779296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9581,
+      "points": [
+        [
+          162.3525390625,
+          124.61563873291016
+        ],
+        [
+          189.5286865234375,
+          180.98361206054688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9541,
+      "points": [
+        [
+          187.25131225585938,
+          183.1048583984375
+        ],
+        [
+          212.00814819335938,
+          235.21124267578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.9332,
+      "points": [
+        [
+          283.6458740234375,
+          296.709716796875
+        ],
+        [
+          304.63031005859375,
+          335.81915283203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.9252,
+      "points": [
+        [
+          187.27471923828125,
+          280.11962890625
+        ],
+        [
+          207.7239990234375,
+          337.0020751953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.9223,
+      "points": [
+        [
+          227.16290283203125,
+          281.5595703125
+        ],
+        [
+          246.51544189453125,
+          333.052001953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9218,
+      "points": [
+        [
+          211.67144775390625,
+          187.32284545898438
+        ],
+        [
+          236.12689208984375,
+          237.00656127929688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.917,
+      "points": [
+        [
+          245.5779266357422,
+          296.5411682128906
+        ],
+        [
+          266.80255126953125,
+          334.5335998535156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9031,
+      "points": [
+        [
+          234.93527221679688,
+          191.17001342773438
+        ],
+        [
+          259.57989501953125,
+          240.43405151367188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.9009,
+      "points": [
+        [
+          207.15455627441406,
+          281.3817138671875
+        ],
+        [
+          228.24586486816406,
+          333.3653564453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.899,
+      "points": [
+        [
+          190.04061889648438,
+          130.96084594726562
+        ],
+        [
+          215.11068725585938,
+          183.70559692382812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8734,
+      "points": [
+        [
+          236.614990234375,
+          139.60052490234375
+        ],
+        [
+          260.86376953125,
+          191.67095947265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.8672,
+      "points": [
+        [
+          265.0150451660156,
+          297.219482421875
+        ],
+        [
+          284.6176452636719,
+          336.7923583984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.853,
+      "points": [
+        [
+          360.2989501953125,
+          166.58984375
+        ],
+        [
+          377.296630859375,
+          208.766845703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8498,
+      "points": [
+        [
+          213.02391052246094,
+          134.87271118164062
+        ],
+        [
+          237.3840789794922,
+          187.97848510742188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8457,
+      "points": [
+        [
+          343.39288330078125,
+          208.23095703125
+        ],
+        [
+          360.02581787109375,
+          249.29437255859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8189,
+      "points": [
+        [
+          343.972412109375,
+          163.79429626464844
+        ],
+        [
+          362.982177734375,
+          207.4419708251953
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "confidence": 0.8006,
+      "points": [
+        [
+          38.146942138671875,
+          373.334716796875
+        ],
+        [
+          73.21662139892578,
+          465.0107421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "confidence": 0.7727,
+      "points": [
+        [
+          73.2384262084961,
+          371.34283447265625
+        ],
+        [
+          108.27051544189453,
+          462.9022216796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "confidence": 0.7706,
+      "points": [
+        [
+          2.5669593811035156,
+          372.245849609375
+        ],
+        [
+          39.28483963012695,
+          472.07073974609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.7567,
+      "points": [
+        [
+          124.77715301513672,
+          275.80169677734375
+        ],
+        [
+          146.6279296875,
+          341.0582275390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.7474,
+      "points": [
+        [
+          327.7690124511719,
+          203.26010131835938
+        ],
+        [
+          345.4144592285156,
+          247.8306884765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.6864,
+      "points": [
+        [
+          259.4176025390625,
+          143.791748046875
+        ],
+        [
+          282.71405029296875,
+          193.52655029296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.6842,
+      "points": [
+        [
+          357.7920837402344,
+          211.51007080078125
+        ],
+        [
+          372.9704895019531,
+          250.53717041015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.6706,
+      "points": [
+        [
+          448.72076416015625,
+          235.24337768554688
+        ],
+        [
+          463.599853515625,
+          258.9322814941406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.6493,
+      "points": [
+        [
+          145.27398681640625,
+          284.4853515625
+        ],
+        [
+          164.529541015625,
+          336.646484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.619,
+      "points": [
+        [
+          311.92510986328125,
+          202.53074645996094
+        ],
+        [
+          329.6650390625,
+          247.54441833496094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "confidence": 0.6136,
+      "points": [
+        [
+          127.24876403808594,
+          482.334716796875
+        ],
+        [
+          156.52452087402344,
+          563.3160400390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdvLata",
+      "confidence": 0.61,
+      "points": [
+        [
+          432.9205322265625,
+          235.15713500976562
+        ],
+        [
+          450.4554443359375,
+          259.5406188964844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv1,5L",
+      "confidence": 0.6086,
+      "points": [
+        [
+          125.25525665283203,
+          366.54608154296875
+        ],
+        [
+          154.97149658203125,
+          444.00164794921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128170_606272.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

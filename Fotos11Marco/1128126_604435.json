@@ -1,0 +1,48 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.8881,
+      "points": [
+        [
+          40.646148681640625,
+          177.01646423339844
+        ],
+        [
+          104.3001708984375,
+          357.3916015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.808,
+      "points": [
+        [
+          0.0,
+          161.23638916015625
+        ],
+        [
+          43.30166244506836,
+          354.2435302734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128126_604435.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

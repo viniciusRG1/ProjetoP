@@ -1,0 +1,998 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9903,
+      "points": [
+        [
+          129.36459350585938,
+          150.22720336914062
+        ],
+        [
+          156.17184448242188,
+          201.97100830078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9891,
+      "points": [
+        [
+          182.99166870117188,
+          150.44479370117188
+        ],
+        [
+          211.17251586914062,
+          201.822509765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9871,
+      "points": [
+        [
+          210.45108032226562,
+          149.78652954101562
+        ],
+        [
+          235.50961303710938,
+          202.11447143554688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9849,
+      "points": [
+        [
+          100.28318786621094,
+          150.82266235351562
+        ],
+        [
+          128.98916625976562,
+          202.63211059570312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9802,
+      "points": [
+        [
+          234.66143798828125,
+          150.03717041015625
+        ],
+        [
+          259.6449890136719,
+          202.9681396484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ZapLata",
+      "confidence": 0.966,
+      "points": [
+        [
+          249.84469604492188,
+          53.71152877807617
+        ],
+        [
+          280.1150817871094,
+          111.66502380371094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.9627,
+      "points": [
+        [
+          155.2836456298828,
+          150.47731018066406
+        ],
+        [
+          183.38914489746094,
+          202.09095764160156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZero2L",
+      "confidence": 0.9579,
+      "points": [
+        [
+          241.37181091308594,
+          379.18939208984375
+        ],
+        [
+          274.128662109375,
+          482.27777099609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZero2L",
+      "confidence": 0.9507,
+      "points": [
+        [
+          275.3359680175781,
+          378.55023193359375
+        ],
+        [
+          310.5547180175781,
+          482.75262451171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.9367,
+      "points": [
+        [
+          135.14373779296875,
+          55.279361724853516
+        ],
+        [
+          165.92718505859375,
+          111.19204711914062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.9367,
+      "points": [
+        [
+          63.74351501464844,
+          512.4530029296875
+        ],
+        [
+          99.91258239746094,
+          614.6844482421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.9315,
+      "points": [
+        [
+          102.36434936523438,
+          377.66754150390625
+        ],
+        [
+          137.0767822265625,
+          481.28021240234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.9288,
+      "points": [
+        [
+          166.49276733398438,
+          52.95892333984375
+        ],
+        [
+          194.02020263671875,
+          110.14454650878906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.9138,
+      "points": [
+        [
+          107.15348815917969,
+          57.02381134033203
+        ],
+        [
+          135.0373992919922,
+          111.2292251586914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.9011,
+      "points": [
+        [
+          195.16387939453125,
+          55.207427978515625
+        ],
+        [
+          221.00848388671875,
+          110.05307006835938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.8955,
+      "points": [
+        [
+          137.247314453125,
+          23.623361587524414
+        ],
+        [
+          166.00677490234375,
+          56.951148986816406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8884,
+      "points": [
+        [
+          133.6846923828125,
+          378.25213623046875
+        ],
+        [
+          172.57080078125,
+          482.413818359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8822,
+      "points": [
+        [
+          170.33990478515625,
+          377.72406005859375
+        ],
+        [
+          206.033203125,
+          481.75140380859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZero2L",
+      "confidence": 0.8698,
+      "points": [
+        [
+          310.28143310546875,
+          378.52203369140625
+        ],
+        [
+          347.36224365234375,
+          483.99481201171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8691,
+      "points": [
+        [
+          301.6726989746094,
+          227.75491333007812
+        ],
+        [
+          336.8868103027344,
+          356.2784118652344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8673,
+      "points": [
+        [
+          204.40855407714844,
+          376.90814208984375
+        ],
+        [
+          240.30931091308594,
+          482.60321044921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8669,
+      "points": [
+        [
+          303.025146484375,
+          511.80133056640625
+        ],
+        [
+          339.913330078125,
+          613.8069458007812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8554,
+      "points": [
+        [
+          336.23333740234375,
+          230.72048950195312
+        ],
+        [
+          365.98992919921875,
+          350.2310485839844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaMineiro2L",
+      "confidence": 0.8488,
+      "points": [
+        [
+          111.53013610839844,
+          227.6911163330078
+        ],
+        [
+          157.8587188720703,
+          355.25299072265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.8476,
+      "points": [
+        [
+          80.19345092773438,
+          59.17333984375
+        ],
+        [
+          108.89288330078125,
+          113.96388244628906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.847,
+      "points": [
+        [
+          225.40658569335938,
+          24.09270477294922
+        ],
+        [
+          251.32229614257812,
+          51.039520263671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "AguaTonicaMineiroLata",
+      "confidence": 0.8467,
+      "points": [
+        [
+          80.2519302368164,
+          151.02557373046875
+        ],
+        [
+          102.02164459228516,
+          203.166748046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.8351,
+      "points": [
+        [
+          195.27474975585938,
+          24.147125244140625
+        ],
+        [
+          221.19296264648438,
+          55.772979736328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.821,
+      "points": [
+        [
+          111.92083740234375,
+          23.41559600830078
+        ],
+        [
+          137.79640197753906,
+          57.138832092285156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.8035,
+      "points": [
+        [
+          167.46603393554688,
+          24.34990119934082
+        ],
+        [
+          194.0430908203125,
+          55.32061767578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.796,
+      "points": [
+        [
+          422.6332092285156,
+          376.40301513671875
+        ],
+        [
+          457.8747863769531,
+          463.28668212890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaMineiro2L",
+      "confidence": 0.7857,
+      "points": [
+        [
+          153.391845703125,
+          228.00286865234375
+        ],
+        [
+          193.87493896484375,
+          353.9796142578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.77,
+      "points": [
+        [
+          268.2868957519531,
+          227.8818359375
+        ],
+        [
+          303.0364074707031,
+          358.93597412109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.7636,
+      "points": [
+        [
+          269.85382080078125,
+          505.2406921386719
+        ],
+        [
+          303.2381591796875,
+          614.719482421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.7605,
+      "points": [
+        [
+          310.693359375,
+          19.899612426757812
+        ],
+        [
+          344.32684326171875,
+          113.85481262207031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.7557,
+      "points": [
+        [
+          295.1817626953125,
+          0.11666679382324219
+        ],
+        [
+          315.5447998046875,
+          16.117658615112305
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.7443,
+      "points": [
+        [
+          316.4755859375,
+          0.5794544219970703
+        ],
+        [
+          338.7144775390625,
+          16.65774154663086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.7319,
+      "points": [
+        [
+          343.2000732421875,
+          20.48297119140625
+        ],
+        [
+          378.5931396484375,
+          113.52894592285156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "MineiroZeroLata",
+      "confidence": 0.7228,
+      "points": [
+        [
+          220.0916748046875,
+          49.70762634277344
+        ],
+        [
+          249.62725830078125,
+          109.90895080566406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.698,
+      "points": [
+        [
+          281.42352294921875,
+          0.03933238983154297
+        ],
+        [
+          298.75115966796875,
+          14.517451286315918
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6889,
+      "points": [
+        [
+          269.26300048828125,
+          501.47747802734375
+        ],
+        [
+          302.66888427734375,
+          615.9024047851562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6834,
+      "points": [
+        [
+          206.5819854736328,
+          501.40704345703125
+        ],
+        [
+          238.7436981201172,
+          614.9935913085938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6808,
+      "points": [
+        [
+          308.5793151855469,
+          0.2252330780029297
+        ],
+        [
+          324.9624938964844,
+          16.06351661682129
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6714,
+      "points": [
+        [
+          237.94573974609375,
+          501.63104248046875
+        ],
+        [
+          270.97161865234375,
+          615.6734008789062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6589,
+      "points": [
+        [
+          175.28067016601562,
+          502.51043701171875
+        ],
+        [
+          207.78738403320312,
+          614.3873901367188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6507,
+      "points": [
+        [
+          266.808349609375,
+          0.0
+        ],
+        [
+          283.1602783203125,
+          15.239516258239746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6321,
+      "points": [
+        [
+          241.9183349609375,
+          376.1609191894531
+        ],
+        [
+          272.9688720703125,
+          482.7433776855469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6308,
+      "points": [
+        [
+          115.25699615478516,
+          506.85076904296875
+        ],
+        [
+          146.55667114257812,
+          611.7111206054688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6275,
+      "points": [
+        [
+          24.94365882873535,
+          518.8109130859375
+        ],
+        [
+          68.67334747314453,
+          624.5277099609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6218,
+      "points": [
+        [
+          251.0496826171875,
+          0.0
+        ],
+        [
+          269.7353515625,
+          14.441507339477539
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6181,
+      "points": [
+        [
+          460.1391296386719,
+          366.74896240234375
+        ],
+        [
+          480.0,
+          464.50799560546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6096,
+      "points": [
+        [
+          279.3787841796875,
+          19.80068588256836
+        ],
+        [
+          311.259033203125,
+          112.148193359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128296_607142.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

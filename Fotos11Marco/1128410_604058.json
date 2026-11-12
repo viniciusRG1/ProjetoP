@@ -1,0 +1,181 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.9174,
+      "points": [
+        [
+          3.3528518676757812,
+          555.8973999023438
+        ],
+        [
+          50.47032928466797,
+          639.2072143554688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.723,
+      "points": [
+        [
+          365.257080078125,
+          204.73147583007812
+        ],
+        [
+          405.62005615234375,
+          314.7103576660156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.7021,
+      "points": [
+        [
+          403.30377197265625,
+          205.0573272705078
+        ],
+        [
+          441.20062255859375,
+          313.49676513671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "miniPetColaAdv",
+      "confidence": 0.6725,
+      "points": [
+        [
+          372.2763977050781,
+          339.960693359375
+        ],
+        [
+          423.5071716308594,
+          501.30731201171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6663,
+      "points": [
+        [
+          118.70076751708984,
+          554.9285888671875
+        ],
+        [
+          174.94064331054688,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6624,
+      "points": [
+        [
+          64.74574279785156,
+          555.83544921875
+        ],
+        [
+          119.35523986816406,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6423,
+      "points": [
+        [
+          439.39794921875,
+          206.4816131591797
+        ],
+        [
+          475.6070556640625,
+          312.20819091796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "miniPetColaAdv",
+      "confidence": 0.6339,
+      "points": [
+        [
+          1.2623786926269531,
+          349.407470703125
+        ],
+        [
+          56.740570068359375,
+          508.6851806640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "miniPetColaAdv",
+      "confidence": 0.6018,
+      "points": [
+        [
+          324.708251953125,
+          340.30377197265625
+        ],
+        [
+          374.0435791015625,
+          501.76654052734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128410_604058.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

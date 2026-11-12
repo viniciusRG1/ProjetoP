@@ -1,0 +1,124 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.7784,
+      "label": "GuaranaAdv1L",
+      "points": [
+        [
+          10.68729019165039,
+          116.5513916015625
+        ],
+        [
+          134.0491943359375,
+          346.79449462890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6817,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          127.7132568359375,
+          118.21141815185547
+        ],
+        [
+          218.09283447265625,
+          346.60662841796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6055,
+      "label": "GuaranaAdv1L",
+      "points": [
+        [
+          303.08306884765625,
+          119.87002563476562
+        ],
+        [
+          404.68572998046875,
+          343.884521484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5637,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          217.60330200195312,
+          115.5750732421875
+        ],
+        [
+          307.8349304199219,
+          344.1192626953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5224,
+      "label": "GuaranaAdv1L",
+      "points": [
+        [
+          407.7173915939501,
+          113.76225522047693
+        ],
+        [
+          476.08017817371933,
+          347.28285077951
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6055,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          378.3973388671875,
+          361.5181325389973
+        ],
+        [
+          476.08017817371933,
+          502.07126948775056
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127585_604021.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

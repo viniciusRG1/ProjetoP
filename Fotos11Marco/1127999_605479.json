@@ -1,0 +1,808 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.96,
+      "points": [
+        [
+          23.790311813354492,
+          80.05707550048828
+        ],
+        [
+          55.03480529785156,
+          181.0693359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9313,
+      "points": [
+        [
+          0.0287933349609375,
+          78.69862365722656
+        ],
+        [
+          24.48792839050293,
+          179.57017517089844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9291,
+      "points": [
+        [
+          258.0084228515625,
+          100.830810546875
+        ],
+        [
+          291.7149658203125,
+          194.2550048828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "mineirobaby",
+      "confidence": 0.9248,
+      "points": [
+        [
+          218.33767700195312,
+          219.32125854492188
+        ],
+        [
+          241.20980834960938,
+          263.2801513671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9172,
+      "points": [
+        [
+          0.0,
+          343.26708984375
+        ],
+        [
+          27.44768714904785,
+          443.46630859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9163,
+      "points": [
+        [
+          25.06849479675293,
+          344.17462158203125
+        ],
+        [
+          62.58172607421875,
+          444.53753662109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9136,
+      "points": [
+        [
+          159.24636840820312,
+          346.3243713378906
+        ],
+        [
+          193.73922729492188,
+          443.3274230957031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.9016,
+      "points": [
+        [
+          227.5589599609375,
+          107.3466567993164
+        ],
+        [
+          256.89788818359375,
+          193.89273071289062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8942,
+      "points": [
+        [
+          291.1350402832031,
+          101.42149353027344
+        ],
+        [
+          320.0981140136719,
+          196.67588806152344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8782,
+      "points": [
+        [
+          319.6982421875,
+          102.86761474609375
+        ],
+        [
+          348.8099365234375,
+          198.8006591796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.8703,
+      "points": [
+        [
+          145.01824951171875,
+          100.28469848632812
+        ],
+        [
+          174.6907958984375,
+          187.85665893554688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.8702,
+      "points": [
+        [
+          115.7056884765625,
+          86.69076538085938
+        ],
+        [
+          146.33712768554688,
+          186.01040649414062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.8659,
+      "points": [
+        [
+          172.6324462890625,
+          103.88858795166016
+        ],
+        [
+          200.94976806640625,
+          189.29629516601562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8658,
+      "points": [
+        [
+          166.29611206054688,
+          590.300537109375
+        ],
+        [
+          196.70150756835938,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "mineirobaby",
+      "confidence": 0.8628,
+      "points": [
+        [
+          240.03781127929688,
+          219.41094970703125
+        ],
+        [
+          263.1001892089844,
+          263.7178649902344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8551,
+      "points": [
+        [
+          61.23773193359375,
+          344.11810302734375
+        ],
+        [
+          97.34967041015625,
+          444.94940185546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdvLata",
+      "confidence": 0.8537,
+      "points": [
+        [
+          18.3209228515625,
+          285.1687316894531
+        ],
+        [
+          39.61054229736328,
+          324.6048278808594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8388,
+      "points": [
+        [
+          195.19000244140625,
+          587.2283935546875
+        ],
+        [
+          221.08782958984375,
+          639.7103271484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMiniPetAdv",
+      "confidence": 0.8325,
+      "points": [
+        [
+          118.37788391113281,
+          272.16888427734375
+        ],
+        [
+          137.98838806152344,
+          327.03985595703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdvLata",
+      "confidence": 0.8322,
+      "points": [
+        [
+          39.2860107421875,
+          285.21258544921875
+        ],
+        [
+          59.51615905761719,
+          325.17864990234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8188,
+      "points": [
+        [
+          94.87483215332031,
+          344.96966552734375
+        ],
+        [
+          127.44206237792969,
+          444.63299560546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8184,
+      "points": [
+        [
+          121.42390441894531,
+          345.45867919921875
+        ],
+        [
+          159.86988830566406,
+          455.3636474609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8167,
+      "points": [
+        [
+          54.709014892578125,
+          81.7752914428711
+        ],
+        [
+          86.06278991699219,
+          183.38229370117188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdvLata",
+      "confidence": 0.8163,
+      "points": [
+        [
+          0.13274192810058594,
+          284.7236328125
+        ],
+        [
+          18.22406005859375,
+          324.15478515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.8132,
+      "points": [
+        [
+          221.85452270507812,
+          346.71185302734375
+        ],
+        [
+          251.93087768554688,
+          432.58929443359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "mineirobaby",
+      "confidence": 0.8114,
+      "points": [
+        [
+          262.5908508300781,
+          219.85888671875
+        ],
+        [
+          285.0705871582031,
+          264.46343994140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "mineirobaby",
+      "confidence": 0.7964,
+      "points": [
+        [
+          196.24578857421875,
+          218.14959716796875
+        ],
+        [
+          218.76617431640625,
+          262.45489501953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.7844,
+      "points": [
+        [
+          136.77169799804688,
+          592.5999755859375
+        ],
+        [
+          166.99896240234375,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.7776,
+      "points": [
+        [
+          86.19636535644531,
+          86.0404052734375
+        ],
+        [
+          117.27839660644531,
+          185.17098999023438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.76,
+      "points": [
+        [
+          463.45574951171875,
+          228.2050323486328
+        ],
+        [
+          479.84063720703125,
+          294.90972900390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMiniPetAdv",
+      "confidence": 0.7424,
+      "points": [
+        [
+          137.1141357421875,
+          273.2149658203125
+        ],
+        [
+          155.87200927734375,
+          326.743896484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.7201,
+      "points": [
+        [
+          218.44732666015625,
+          586.592041015625
+        ],
+        [
+          255.00119018554688,
+          639.9554443359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMiniPetAdv",
+      "confidence": 0.6757,
+      "points": [
+        [
+          99.86921691894531,
+          272.0999755859375
+        ],
+        [
+          118.26152038574219,
+          327.1317138671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.6753,
+      "points": [
+        [
+          57.76146697998047,
+          478.5461730957031
+        ],
+        [
+          92.91117095947266,
+          562.65283203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6714,
+      "points": [
+        [
+          392.6370849609375,
+          96.66022491455078
+        ],
+        [
+          423.281494140625,
+          202.95855712890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6655,
+      "points": [
+        [
+          19.87672233581543,
+          594.832275390625
+        ],
+        [
+          47.56951904296875,
+          639.9561767578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6436,
+      "points": [
+        [
+          0.0,
+          597.0012817382812
+        ],
+        [
+          17.659523010253906,
+          639.8969116210938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6426,
+      "points": [
+        [
+          192.1227264404297,
+          346.9083251953125
+        ],
+        [
+          223.69151306152344,
+          433.642333984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6249,
+      "points": [
+        [
+          254.24456787109375,
+          586.5223388671875
+        ],
+        [
+          283.28125,
+          639.5787353515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.6225,
+      "points": [
+        [
+          418.4309997558594,
+          98.36580657958984
+        ],
+        [
+          452.9802551269531,
+          204.89199829101562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "miniPetColaAdv",
+      "confidence": 0.6043,
+      "points": [
+        [
+          77.73941040039062,
+          594.5487060546875
+        ],
+        [
+          105.423828125,
+          639.8868408203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ColaAdv2L",
+      "confidence": 0.604,
+      "points": [
+        [
+          105.43745422363281,
+          593.2330932617188
+        ],
+        [
+          137.3131561279297,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127999_605479.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

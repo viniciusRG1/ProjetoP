@@ -1,0 +1,124 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.8377,
+      "points": [
+        [
+          534.265380859375,
+          146.87701416015625
+        ],
+        [
+          613.831787109375,
+          302.0440673828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.7726,
+      "points": [
+        [
+          475.716796875,
+          148.66873168945312
+        ],
+        [
+          553.1868896484375,
+          304.5279846191406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "confidence": 0.7208,
+      "points": [
+        [
+          509.6917419433594,
+          0.22367095947265625
+        ],
+        [
+          584.9957275390625,
+          53.478797912597656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6783,
+      "points": [
+        [
+          420.12640380859375,
+          149.54217529296875
+        ],
+        [
+          489.00396728515625,
+          306.85760498046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "confidence": 0.6595,
+      "points": [
+        [
+          290.52996826171875,
+          0.0179595947265625
+        ],
+        [
+          366.57476806640625,
+          59.491371154785156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "confidence": 0.6564,
+      "points": [
+        [
+          295.78839111328125,
+          61.70270538330078
+        ],
+        [
+          363.24700927734375,
+          113.15479278564453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128126_604434.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

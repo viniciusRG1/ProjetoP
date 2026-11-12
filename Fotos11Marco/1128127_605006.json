@@ -1,0 +1,48 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "águamineiro",
+      "confidence": 0.7216,
+      "points": [
+        [
+          188.21389770507812,
+          0.0
+        ],
+        [
+          276.2021179199219,
+          81.53347778320312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.6636,
+      "points": [
+        [
+          359.68414306640625,
+          0.0876007080078125
+        ],
+        [
+          439.87811279296875,
+          81.69349670410156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128127_605006.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

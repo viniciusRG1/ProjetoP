@@ -1,0 +1,266 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.985,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          304.81378173828125,
+          205.41651916503906
+        ],
+        [
+          379.85980224609375,
+          425.9718017578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9819,
+      "label": "águamineiro",
+      "points": [
+        [
+          112.20827252174911,
+          219.6194564204513
+        ],
+        [
+          176.61031109596786,
+          424.59620202592004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9782,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          376.51605224609375,
+          204.84515380859375
+        ],
+        [
+          446.41668701171875,
+          425.4967041015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9712,
+      "label": "águamineiro",
+      "points": [
+        [
+          42.493682861328125,
+          223.28294372558594
+        ],
+        [
+          118.44656372070312,
+          424.77099609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9592,
+      "label": "águamineiro",
+      "points": [
+        [
+          173.445068359375,
+          219.69236755371094
+        ],
+        [
+          240.45486450195312,
+          425.3372802734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9273,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          238.22552490234375,
+          209.4764404296875
+        ],
+        [
+          307.41748046875,
+          426.45751953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8395,
+      "label": "aguaGasAdv500ml",
+      "points": [
+        [
+          135.49026489257812,
+          535.708740234375
+        ],
+        [
+          213.07626342773438,
+          599.337158203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5731,
+      "label": "aguaGasAdv500ml",
+      "points": [
+        [
+          77.28673553466797,
+          495.7889099121094
+        ],
+        [
+          125.75272369384766,
+          620.7030029296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4779,
+      "label": "aguaGasAdv500ml",
+      "points": [
+        [
+          227.95504760742188,
+          541.6282958984375
+        ],
+        [
+          274.99853515625,
+          619.1514892578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.307,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          455.61932373046875,
+          463.0126037597656
+        ],
+        [
+          479.83624267578125,
+          492.7217712402344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "points": [
+        [
+          355.8858337402344,
+          558.3858032226562
+        ],
+        [
+          333.9947509765625,
+          556.5052490234375
+        ],
+        [
+          320.9947509765625,
+          558.4947509765625
+        ],
+        [
+          275.1141357421875,
+          557.3858642578125
+        ],
+        [
+          269.00518798828125,
+          552.4948120117188
+        ],
+        [
+          263.6141662597656,
+          541.8858032226562
+        ],
+        [
+          263.0,
+          521.1141967773438
+        ],
+        [
+          266.1141662597656,
+          515.6141967773438
+        ],
+        [
+          275.0052490234375,
+          514.0
+        ],
+        [
+          345.8858642578125,
+          516.6141357421875
+        ],
+        [
+          362.49481201171875,
+          527.0051879882812
+        ],
+        [
+          367.99481201171875,
+          532.5051879882812
+        ],
+        [
+          370.3858337402344,
+          538.1141967773438
+        ],
+        [
+          368.9947509765625,
+          550.4947509765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1092993_602647.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

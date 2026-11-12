@@ -1,0 +1,67 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FardoFrutaAdv2L",
+      "confidence": 0.8059,
+      "points": [
+        [
+          395.87786865234375,
+          563.3436279296875
+        ],
+        [
+          479.53045654296875,
+          639.850341796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.7019,
+      "points": [
+        [
+          206.16915893554688,
+          550.61474609375
+        ],
+        [
+          245.01113891601562,
+          639.927001953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6082,
+      "points": [
+        [
+          0.044216156005859375,
+          0.0
+        ],
+        [
+          53.85403060913086,
+          349.8916320800781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128343_607223.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

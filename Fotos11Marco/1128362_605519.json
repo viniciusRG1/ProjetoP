@@ -1,0 +1,124 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.7819,
+      "points": [
+        [
+          2.5067787170410156,
+          322.5495910644531
+        ],
+        [
+          36.962406158447266,
+          410.8793640136719
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoGuaranaMineiro2L",
+      "confidence": 0.7632,
+      "points": [
+        [
+          198.05894470214844,
+          266.60845947265625
+        ],
+        [
+          333.739990234375,
+          332.3402099609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6932,
+      "points": [
+        [
+          324.40728759765625,
+          487.3975830078125
+        ],
+        [
+          374.52191162109375,
+          639.99462890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6416,
+      "points": [
+        [
+          229.09072875976562,
+          482.65087890625
+        ],
+        [
+          277.26385498046875,
+          639.2794189453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6044,
+      "points": [
+        [
+          35.74322509765625,
+          323.1335144042969
+        ],
+        [
+          67.31063842773438,
+          410.4704284667969
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6039,
+      "points": [
+        [
+          275.34063720703125,
+          485.12127685546875
+        ],
+        [
+          326.36651611328125,
+          639.8403930664062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128362_605519.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

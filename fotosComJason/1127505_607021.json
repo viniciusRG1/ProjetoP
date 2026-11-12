@@ -1,0 +1,1424 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.9358,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          307.91253662109375,
+          479.0623779296875
+        ],
+        [
+          385.1846923828125,
+          538.2003784179688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9215,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          308.6339111328125,
+          544.3079833984375
+        ],
+        [
+          389.4473876953125,
+          599.70703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9114,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          3.1752166748046875,
+          603.8213500976562
+        ],
+        [
+          84.72291564941406,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9043,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          307.82781982421875,
+          418.5321044921875
+        ],
+        [
+          387.38946533203125,
+          477.3321533203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8973,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          251.74639892578125,
+          548.5831298828125
+        ],
+        [
+          310.93133544921875,
+          598.6458740234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8881,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          295.84619140625,
+          348.0087890625
+        ],
+        [
+          380.120849609375,
+          415.3369140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8705,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          249.9359130859375,
+          477.90283203125
+        ],
+        [
+          307.91754150390625,
+          537.8807373046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8676,
+      "label": "águamineiro",
+      "points": [
+        [
+          340.3890380859375,
+          203.81185913085938
+        ],
+        [
+          362.158447265625,
+          258.6985778808594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8463,
+      "label": "águamineiro",
+      "points": [
+        [
+          358.4786376953125,
+          202.3875732421875
+        ],
+        [
+          380.7701416015625,
+          258.66131591796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8128,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          0.9890109890110352,
+          471.5567765567766
+        ],
+        [
+          81.47848510742188,
+          538.9156494140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7993,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          165.98129272460938,
+          413.27691650390625
+        ],
+        [
+          246.57919311523438,
+          473.2247314453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7856,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          40.828163146972656,
+          413.50714111328125
+        ],
+        [
+          83.39464569091797,
+          448.56427001953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7734,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          0.07326007326014405,
+          539.3223443223443
+        ],
+        [
+          87.14361572265625,
+          604.5223388671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.76,
+      "label": "águamineiro",
+      "points": [
+        [
+          322.94061279296875,
+          204.06765747070312
+        ],
+        [
+          344.18841552734375,
+          258.9062805175781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7556,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          170.29017639160156,
+          547.228759765625
+        ],
+        [
+          252.2161102294922,
+          601.0810546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7512,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          67.33079528808594,
+          200.80960083007812
+        ],
+        [
+          87.39181518554688,
+          256.2325744628906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7349,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          160.29513549804688,
+          343.9524230957031
+        ],
+        [
+          241.71334838867188,
+          411.2590637207031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.731,
+      "label": "águamineiro",
+      "points": [
+        [
+          251.28997802734375,
+          209.38626098632812
+        ],
+        [
+          272.80712890625,
+          258.84808349609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7071,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          80.17483520507812,
+          414.69488525390625
+        ],
+        [
+          164.63009643554688,
+          476.74346923828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7049,
+      "label": "FardoAguaGasAdv500ml",
+      "points": [
+        [
+          0.0,
+          327.408447265625
+        ],
+        [
+          37.88343048095703,
+          379.7977294921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6875,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          236.08786077813795,
+          345.150400573954
+        ],
+        [
+          297.2535712273567,
+          414.89826434348527
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6801,
+      "label": "águamineiro",
+      "points": [
+        [
+          268.8612976074219,
+          210.6195068359375
+        ],
+        [
+          292.1209411621094,
+          259.02880859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6619,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          74.28923034667969,
+          343.8840026855469
+        ],
+        [
+          161.07028198242188,
+          412.3773498535156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6296,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          36.8712158203125,
+          326.6859130859375
+        ],
+        [
+          82.53004455566406,
+          382.0577392578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6214,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          0.0,
+          327.43536376953125
+        ],
+        [
+          37.90536117553711,
+          379.51092529296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6167,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          142.57171630859375,
+          199.86624145507812
+        ],
+        [
+          164.33810424804688,
+          257.6050720214844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6145,
+      "label": "águamineiro",
+      "points": [
+        [
+          233.44070434570312,
+          203.75146484375
+        ],
+        [
+          255.82174682617188,
+          258.9910888671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6073,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          439.17869305173997,
+          200.3968512566535
+        ],
+        [
+          452.4542124542125,
+          257.2710622710623
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6036,
+      "label": "águamineiro",
+      "points": [
+        [
+          378.6055908203125,
+          198.00271606445312
+        ],
+        [
+          401.5028076171875,
+          258.5868835449219
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6017,
+      "label": "águamineiro",
+      "points": [
+        [
+          305.423583984375,
+          205.63027954101562
+        ],
+        [
+          325.7391357421875,
+          258.8778076171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5817,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          123.61077880859375,
+          202.52178955078125
+        ],
+        [
+          144.50888061523438,
+          256.846923828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5502,
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          2.7472527472527304,
+          409.2571610111894
+        ],
+        [
+          44.587920471862105,
+          449.7019852299394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.543,
+      "label": "águamineiro",
+      "points": [
+        [
+          198.580322265625,
+          201.97607421875
+        ],
+        [
+          219.3134765625,
+          258.64715576171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5382,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          463.7724609375,
+          202.57629394531247
+        ],
+        [
+          480.0,
+          257.68692016601557
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5137,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          277.05889892578125,
+          300.289306640625
+        ],
+        [
+          332.57305908203125,
+          339.447021484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5031,
+      "label": "águamineiro",
+      "points": [
+        [
+          287.5375671386719,
+          210.20648193359375
+        ],
+        [
+          310.4101867675781,
+          259.263916015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4999,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          247.19244384765625,
+          416.82415771484375
+        ],
+        [
+          308.96002197265625,
+          475.98419189453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4974,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          165.7340087890625,
+          476.20391845703125
+        ],
+        [
+          248.74053955078125,
+          541.8682250976562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4658,
+      "label": "águamineiro",
+      "points": [
+        [
+          215.63885498046875,
+          203.14178466796875
+        ],
+        [
+          238.00518798828125,
+          259.155517578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4613,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          85.87751770019531,
+          204.74923706054688
+        ],
+        [
+          108.12089538574219,
+          256.52972412109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4606,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          11.995784759521484,
+          210.47000122070312
+        ],
+        [
+          32.50090408325195,
+          257.7948303222656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4518,
+      "label": "águamineiro",
+      "points": [
+        [
+          198.5615234375,
+          203.01425170898438
+        ],
+        [
+          218.7454833984375,
+          258.98553466796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4486,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          49.176429748535156,
+          200.62945556640625
+        ],
+        [
+          69.42182922363281,
+          257.7508544921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4375,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          104.20603942871094,
+          204.372314453125
+        ],
+        [
+          126.69993591308594,
+          256.4873046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.432,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          162.05599975585938,
+          200.56161499023438
+        ],
+        [
+          183.51992797851562,
+          258.1532287597656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4149,
+      "label": "águamineiro",
+      "points": [
+        [
+          179.959716796875,
+          200.76565551757812
+        ],
+        [
+          200.93072509765625,
+          258.7360534667969
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3999,
+      "label": "aguaGasMineiro500ml",
+      "points": [
+        [
+          180.1556396484375,
+          200.812744140625
+        ],
+        [
+          201.00872802734375,
+          258.7897033691406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3726,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          239.35781860351562,
+          185.05722045898438
+        ],
+        [
+          293.0220031738281,
+          208.71493530273438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3653,
+      "label": "águamineiro",
+      "points": [
+        [
+          366.28143310546875,
+          202.47314453125
+        ],
+        [
+          394.34954833984375,
+          258.5104064941406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3626,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          170.55758666992188,
+          547.3641357421875
+        ],
+        [
+          251.08035278320312,
+          601.1492919921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.34,
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          87.56512451171875,
+          548.1932373046875
+        ],
+        [
+          171.42153930664062,
+          603.1429443359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3163,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          0.0,
+          211.70773315429688
+        ],
+        [
+          15.154098510742188,
+          257.6353759765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3075,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          29.369497299194336,
+          205.00973510742188
+        ],
+        [
+          52.192420959472656,
+          258.0829772949219
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3726,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          294.3028735485706,
+          183.22571862748254
+        ],
+        [
+          347.9670581188831,
+          206.88343347123254
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3726,
+      "label": "FardoAguaMineiro",
+      "points": [
+        [
+          201.81203105772806,
+          183.22571862748254
+        ],
+        [
+          239.08424908424917,
+          204.1575091575092
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          109.88583374023438,
+          199.38583374023438
+        ],
+        [
+          90.89106750488281,
+          197.61940002441406
+        ],
+        [
+          85.00523376464844,
+          199.2664337158203
+        ],
+        [
+          84.0,
+          196.1089324951172
+        ],
+        [
+          87.60897064208984,
+          185.1089630126953
+        ],
+        [
+          90.00523376464844,
+          184.0
+        ],
+        [
+          134.88580322265625,
+          184.0
+        ],
+        [
+          140.38580322265625,
+          193.1141357421875
+        ],
+        [
+          138.99996948242188,
+          196.27162170410156
+        ],
+        [
+          131.00523376464844,
+          194.50523376464844
+        ],
+        [
+          122.89106750488281,
+          198.38059997558594
+        ],
+        [
+          117.00520324707031,
+          196.50526428222656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaGasMineiro500ml",
+      "points": [
+        [
+          182.8910675048828,
+          198.38059997558594
+        ],
+        [
+          177.99476623535156,
+          196.50523376464844
+        ],
+        [
+          167.11416625976562,
+          197.38583374023438
+        ],
+        [
+          163.0,
+          195.51046752929688
+        ],
+        [
+          158.0,
+          197.27166748046875
+        ],
+        [
+          151.99476623535156,
+          195.50523376464844
+        ],
+        [
+          145.00003051757812,
+          196.27162170410156
+        ],
+        [
+          144.0,
+          192.11416625976562
+        ],
+        [
+          147.11940002441406,
+          184.0
+        ],
+        [
+          190.9947967529297,
+          184.0
+        ],
+        [
+          195.49472045898438,
+          185.00526428222656
+        ],
+        [
+          197.38583374023438,
+          188.11416625976562
+        ],
+        [
+          196.99476623535156,
+          195.49476623535156
+        ],
+        [
+          194.99996948242188,
+          197.27162170410156
+        ],
+        [
+          190.0,
+          195.72833251953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaGasAdv500ml",
+      "points": [
+        [
+          46.89103317260742,
+          205.38055419921875
+        ],
+        [
+          41.89106750488281,
+          202.61940002441406
+        ],
+        [
+          29.00003433227539,
+          204.27163696289062
+        ],
+        [
+          23.00003433227539,
+          201.72836303710938
+        ],
+        [
+          20.99996566772461,
+          203.27163696289062
+        ],
+        [
+          0.11943884193897247,
+          202.38055419921875
+        ],
+        [
+          0.0,
+          178.11944580078125
+        ],
+        [
+          28.891067504882812,
+          178.0
+        ],
+        [
+          43.89103317260742,
+          184.6089630126953
+        ],
+        [
+          50.38582992553711,
+          197.11416625976562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6073,
+      "label": "aguaAdv500ml",
+      "points": [
+        [
+          451.9992058722528,
+          201.3126021724044
+        ],
+        [
+          465.2747252747253,
+          258.1868131868132
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          451.89105224609375,
+          394.3805847167969
+        ],
+        [
+          441.1141662597656,
+          393.3858337402344
+        ],
+        [
+          438.0,
+          389.8858337402344
+        ],
+        [
+          438.61419677734375,
+          328.11419677734375
+        ],
+        [
+          441.0052490234375,
+          327.0
+        ],
+        [
+          478.88055419921875,
+          327.61944580078125
+        ],
+        [
+          479.38055419921875,
+          392.88055419921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          463.8858642578125,
+          458.38580322265625
+        ],
+        [
+          444.1141357421875,
+          454.3858642578125
+        ],
+        [
+          437.6141662597656,
+          448.8858337402344
+        ],
+        [
+          437.0,
+          428.0
+        ],
+        [
+          439.11944580078125,
+          394.61944580078125
+        ],
+        [
+          479.38055419921875,
+          394.11944580078125
+        ],
+        [
+          479.38055419921875,
+          456.88055419921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          474.8858337402344,
+          520.3858642578125
+        ],
+        [
+          451.1141662597656,
+          520.3858642578125
+        ],
+        [
+          445.5052490234375,
+          517.9947509765625
+        ],
+        [
+          437.0,
+          508.88580322265625
+        ],
+        [
+          437.0,
+          464.0052490234375
+        ],
+        [
+          439.1194152832031,
+          455.0
+        ],
+        [
+          464.0,
+          460.27166748046875
+        ],
+        [
+          477.0,
+          459.5104675292969
+        ],
+        [
+          479.38580322265625,
+          461.11419677734375
+        ],
+        [
+          479.4947204589844,
+          516.9947509765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoAguaAdv500ml",
+      "points": [
+        [
+          478.88055419921875,
+          580.3805541992188
+        ],
+        [
+          450.1141662597656,
+          578.3858032226562
+        ],
+        [
+          443.1089782714844,
+          575.3910522460938
+        ],
+        [
+          436.0052490234375,
+          569.4947509765625
+        ],
+        [
+          436.0,
+          528.0052490234375
+        ],
+        [
+          437.1194152832031,
+          516.619384765625
+        ],
+        [
+          440.89105224609375,
+          516.0
+        ],
+        [
+          452.0052490234375,
+          520.4947509765625
+        ],
+        [
+          479.38055419921875,
+          520.1194458007812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127505_607021.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

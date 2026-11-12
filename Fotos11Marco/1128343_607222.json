@@ -1,0 +1,105 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FardoColaAdv",
+      "confidence": 0.9613,
+      "points": [
+        [
+          402.03729248046875,
+          546.4027099609375
+        ],
+        [
+          475.19757080078125,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.7352,
+      "points": [
+        [
+          228.14654541015625,
+          220.7847900390625
+        ],
+        [
+          274.63446044921875,
+          367.12872314453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasAdv500ml",
+      "confidence": 0.6691,
+      "points": [
+        [
+          324.0487060546875,
+          22.97161102294922
+        ],
+        [
+          342.8631591796875,
+          81.58547973632812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv1L",
+      "confidence": 0.6656,
+      "points": [
+        [
+          275.3043212890625,
+          217.50047302246094
+        ],
+        [
+          321.4415283203125,
+          369.1455078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMiniPetAdv",
+      "confidence": 0.6125,
+      "points": [
+        [
+          168.844482421875,
+          21.56256675720215
+        ],
+        [
+          188.60443115234375,
+          76.42765045166016
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128343_607222.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

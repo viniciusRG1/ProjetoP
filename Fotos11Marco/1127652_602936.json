@@ -1,0 +1,124 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "águamineiro",
+      "confidence": 0.951,
+      "points": [
+        [
+          2.0021743774414062,
+          203.2440185546875
+        ],
+        [
+          87.71792602539062,
+          476.45361328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.8968,
+      "points": [
+        [
+          401.69671630859375,
+          227.34130859375
+        ],
+        [
+          479.01171875,
+          485.4322509765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.8434,
+      "points": [
+        [
+          81.55311584472656,
+          215.87982177734375
+        ],
+        [
+          166.71914672851562,
+          474.07281494140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.8226,
+      "points": [
+        [
+          320.0911865234375,
+          229.49661254882812
+        ],
+        [
+          407.8626708984375,
+          477.4071350097656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.756,
+      "points": [
+        [
+          242.3987274169922,
+          222.19223022460938
+        ],
+        [
+          323.46063232421875,
+          475.0137634277344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.654,
+      "points": [
+        [
+          320.0478515625,
+          231.11253356933594
+        ],
+        [
+          407.4996337890625,
+          477.7391357421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127652_602936.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

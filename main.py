@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 from ultralytics import YOLO
 
-ORIGEM_DIR = Path("fotosComJason/2026-10-31 - Frontal")
+ORIGEM_DIR = Path("fotosComJason")
 DATASET_DIR = Path("dataset_yolo")
 CLASSES = [
     "AguaAdv5L",
@@ -95,13 +95,11 @@ def converter_bbox(points, img_w, img_h):
     x_min, x_max = min(xs), max(xs)
     y_min, y_max = min(ys), max(ys)
 
-    # Normalizacao 0 a 1
     x_center = (x_min + x_max) / 2.0 / img_w
     y_center = (y_min + y_max) / 2.0 / img_h
     w = (x_max - x_min) / img_w
     h = (y_max - y_min) / img_h
 
-    # Clamping de seguranca
     x_center = max(0.0, min(1.0, x_center))
     y_center = max(0.0, min(1.0, y_center))
     w = max(0.0, min(1.0, w))
@@ -111,7 +109,6 @@ def converter_bbox(points, img_w, img_h):
 
 
 def preparar_dataset():
-    # Cria diretorios necessarios
     for split in ["train", "val"]:
         (DATASET_DIR / "images" / split).mkdir(parents=True, exist_ok=True)
         (DATASET_DIR / "labels" / split).mkdir(parents=True, exist_ok=True)
@@ -129,7 +126,6 @@ def preparar_dataset():
             with open(jf, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            # Busca imagem correspondente
             img_nome = data.get("imagePath", jf.stem + ".jpg")
             img_path = ORIGEM_DIR / Path(img_nome).name
             if not img_path.exists():
@@ -145,7 +141,6 @@ def preparar_dataset():
             img_w = data["imageWidth"]
             img_h = data["imageHeight"]
 
-            # Gera linhas TXT YOLO
             linhas = []
             for shape in data["shapes"]:
                 label = shape["label"]
@@ -155,13 +150,11 @@ def preparar_dataset():
                 xc, yc, w, h = converter_bbox(shape["points"], img_w, img_h)
                 linhas.append(f"{cls_id} {xc:.6f} {yc:.6f} {w:.6f} {h:.6f}\n")
 
-            # Copia imagem e grava label
             shutil.copy2(img_path, DATASET_DIR / "images" / split / img_path.name)
             txt_path = DATASET_DIR / "labels" / split / f"{jf.stem}.txt"
             with open(txt_path, "w", encoding="utf-8") as f:
                 f.writelines(linhas)
 
-    # Cria arquivo YAML
     yaml_conteudo = f"""path: {DATASET_DIR.resolve()}
 train: images/train
 val: images/val
@@ -180,10 +173,9 @@ names:
 
 def treinar(yaml_path):
     modelo = YOLO("yolo11n.pt")
-    yaml_path = Path("")
     modelo.train(
         data=str(yaml_path),
-        epochs=200,
+        epochs=400,
         imgsz=640,
         batch=8,
         workers=0,

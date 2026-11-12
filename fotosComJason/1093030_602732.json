@@ -1,0 +1,1720 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.9983,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          140.56878662109375,
+          428.39923095703125
+        ],
+        [
+          207.60092163085938,
+          483.21270751953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.995,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          141.3475341796875,
+          482.5791015625
+        ],
+        [
+          205.5980224609375,
+          536.405517578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9944,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          145.63131713867188,
+          535.3463134765625
+        ],
+        [
+          206.07614135742188,
+          580.3319091796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9922,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          137.09518432617188,
+          369.4127197265625
+        ],
+        [
+          204.12841796875,
+          427.55877685546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9892,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          78.54595947265625,
+          483.1927490234375
+        ],
+        [
+          141.639892578125,
+          534.8326416015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9843,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          67.68154907226562,
+          371.296875
+        ],
+        [
+          136.03671264648438,
+          429.9718017578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9839,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          347.05877685546875,
+          49.283538818359375
+        ],
+        [
+          370.98504638671875,
+          116.21330261230469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.982,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          141.88034057617188,
+          49.12480545043945
+        ],
+        [
+          164.81674194335938,
+          115.72581481933594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9815,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          74.0146484375,
+          51.020751953125
+        ],
+        [
+          97.83807373046875,
+          115.310302734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9815,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          300.31036376953125,
+          416.94085693359375
+        ],
+        [
+          388.21051025390625,
+          471.40966796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9808,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          119.45803833007812,
+          48.90123748779297
+        ],
+        [
+          142.34561157226562,
+          115.67171478271484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9798,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          207.12179565429688,
+          475.634521484375
+        ],
+        [
+          295.4087829589844,
+          531.4208374023438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9793,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          425.83660888671875,
+          502.8522033691406
+        ],
+        [
+          468.95654296875,
+          539.8067626953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9788,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          96.387939453125,
+          50.164207458496094
+        ],
+        [
+          120.48532104492188,
+          115.9191665649414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9775,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          300.74560546875,
+          338.8436584472656
+        ],
+        [
+          393.6536865234375,
+          416.8450622558594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9751,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          278.41754150390625,
+          51.94728088378906
+        ],
+        [
+          301.51239013671875,
+          116.51258850097656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.975,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          164.4425811767578,
+          49.791290283203125
+        ],
+        [
+          187.9436798095703,
+          115.94026184082031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.975,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          73.81996154785156,
+          429.96014404296875
+        ],
+        [
+          140.39376831054688,
+          484.16802978515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9737,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          208.92575073242188,
+          416.04278564453125
+        ],
+        [
+          299.8844909667969,
+          475.8411865234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9724,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          211.70265197753906,
+          49.640777587890625
+        ],
+        [
+          233.9235076904297,
+          116.146240234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9722,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          188.34487915039062,
+          50.836761474609375
+        ],
+        [
+          210.79861450195312,
+          116.00726318359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9712,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          256.534423828125,
+          52.0145149230957
+        ],
+        [
+          278.0992431640625,
+          116.49967956542969
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9707,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          382.23052978515625,
+          494.2587890625
+        ],
+        [
+          427.06072998046875,
+          533.05859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9699,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          421.3642578125,
+          543.2440185546875
+        ],
+        [
+          461.225830078125,
+          574.3990478515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9698,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          380.5666809082031,
+          540.5057373046875
+        ],
+        [
+          421.5860290527344,
+          571.40576171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.968,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          324.07220458984375,
+          52.52516174316406
+        ],
+        [
+          346.67694091796875,
+          116.88174438476562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9679,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          49.520606994628906,
+          49.196170806884766
+        ],
+        [
+          74.7020034790039,
+          115.84793090820312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9677,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          341.03216552734375,
+          0.002452850341796875
+        ],
+        [
+          432.87506103515625,
+          56.15025329589844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9619,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          134.04193115234375,
+          290.80682373046875
+        ],
+        [
+          203.7227783203125,
+          365.18597412109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9604,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          87.9776611328125,
+          532.8114013671875
+        ],
+        [
+          145.52127075195312,
+          579.2178955078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9579,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          234.46893310546875,
+          50.748294830322266
+        ],
+        [
+          256.25323486328125,
+          116.34945678710938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9558,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          301.71917724609375,
+          51.677974700927734
+        ],
+        [
+          324.58453369140625,
+          116.36636352539062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.954,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          389.0849914550781,
+          410.0748291015625
+        ],
+        [
+          441.4695739746094,
+          454.2386474609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.952,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          298.8302811283768,
+          471.4154052734375
+        ],
+        [
+          382.68324743697053,
+          525.5953369140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9476,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          430.544677734375,
+          460.5943603515625
+        ],
+        [
+          477.2681884765625,
+          497.830810546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.947,
+      "label": "FardoGuaranaMineiro600ml",
+      "points": [
+        [
+          59.46574401855469,
+          290.12823486328125
+        ],
+        [
+          133.12979125976562,
+          371.19622802734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9359,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          123.59442901611328,
+          200.13897705078125
+        ],
+        [
+          140.83135986328125,
+          253.08551025390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9272,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          383.68511962890625,
+          455.3621826171875
+        ],
+        [
+          430.79913330078125,
+          491.70556640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9072,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          294.6511535644531,
+          525.0325927734375
+        ],
+        [
+          378.2621765136719,
+          582.0894775390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9024,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          206.88613891601562,
+          336.626953125
+        ],
+        [
+          299.8984069824219,
+          415.0806884765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8981,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          198.7015380859375,
+          201.0435791015625
+        ],
+        [
+          214.38818359375,
+          250.83221435546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8963,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          0.0,
+          399.16400146484375
+        ],
+        [
+          36.621971130371094,
+          469.65185546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.882,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          138.69888305664062,
+          200.685546875
+        ],
+        [
+          154.40090942382812,
+          253.17279052734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8791,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          302.9504089355469,
+          149.71224975585938
+        ],
+        [
+          354.2084045410156,
+          204.27908325195312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8653,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          0.0,
+          237.17263793945312
+        ],
+        [
+          15.121114730834961,
+          322.4077453613281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8567,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          299.8572998046875,
+          204.81393432617188
+        ],
+        [
+          348.4736328125,
+          256.3721618652344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8519,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          460.2655944824219,
+          543.4537353515625
+        ],
+        [
+          480.0,
+          576.0274658203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8505,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          347.4898681640625,
+          200.86378479003906
+        ],
+        [
+          404.22760009765625,
+          252.42796325683594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.842,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          212.7222900390625,
+          201.4839630126953
+        ],
+        [
+          226.29656982421875,
+          251.0874481201172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8326,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          0.0,
+          321.6687927246094
+        ],
+        [
+          22.164794921875,
+          400.3595275878906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.832,
+      "label": "GuaranaMiniPetAdv",
+      "points": [
+        [
+          425.4778840340974,
+          204.77350848411027
+        ],
+        [
+          446.95970695970703,
+          250.86080586080587
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8231,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          152.1226043701172,
+          200.58023071289062
+        ],
+        [
+          171.92604064941406,
+          253.25625610351562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8032,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          394.203857421875,
+          361.1055908203125
+        ],
+        [
+          447.1640625,
+          409.9302978515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7903,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          371.1986083984375,
+          49.383056640625
+        ],
+        [
+          396.4921875,
+          116.30531311035156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.79,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          172.63232421875,
+          200.87049865722656
+        ],
+        [
+          189.95053100585938,
+          251.25120544433594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.789,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          353.26239013671875,
+          150.69195556640625
+        ],
+        [
+          398.139404296875,
+          199.60980224609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7702,
+      "label": "FardoMiniPetAdv",
+      "points": [
+        [
+          373.6773681640625,
+          295.9146423339844
+        ],
+        [
+          456.7362060546875,
+          360.8038635253906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.758,
+      "label": "GuaranaMiniPetAdv",
+      "points": [
+        [
+          443.05768023480425,
+          205.11421734596783
+        ],
+        [
+          462.26666460980425,
+          254.15993267799908
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7481,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          446.7296447753906,
+          358.8191833496094
+        ],
+        [
+          479.9051208496094,
+          407.5783386230469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7449,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          0.4054679870605469,
+          468.0989990234375
+        ],
+        [
+          43.37458801269531,
+          531.4925537109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7355,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          240.6773681640625,
+          203.5352783203125
+        ],
+        [
+          299.34808349609375,
+          252.71527099609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7265,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          126.52460479736328,
+          148.3681640625
+        ],
+        [
+          186.94677734375,
+          199.94589233398438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.721,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          67.52200317382812,
+          147.31515502929688
+        ],
+        [
+          128.63064575195312,
+          198.64566040039062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7204,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          60.91447448730469,
+          200.44203186035156
+        ],
+        [
+          78.4259033203125,
+          253.1099090576172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7131,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          441.2159423828125,
+          409.1172180175781
+        ],
+        [
+          480.0,
+          454.1399841308594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7028,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          188.873291015625,
+          201.34225463867188
+        ],
+        [
+          202.25177001953125,
+          250.32345581054688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6977,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          206.26931762695312,
+          528.2431640625
+        ],
+        [
+          289.8063049316406,
+          581.168701171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6929,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          461.40435791015625,
+          54.15157699584961
+        ],
+        [
+          480.0,
+          117.86727905273438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6924,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          240.4696502685547,
+          149.89044189453125
+        ],
+        [
+          301.90118408203125,
+          203.0994873046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6886,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          394.9144287109375,
+          49.3839111328125
+        ],
+        [
+          419.1031494140625,
+          116.45756530761719
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6742,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          468.1407470703125,
+          503.56671142578125
+        ],
+        [
+          479.9522705078125,
+          539.2799682617188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.657,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          92.33734130859375,
+          200.07199096679688
+        ],
+        [
+          109.87860107421875,
+          252.33425903320312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6562,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          436.5046691894531,
+          56.848899841308594
+        ],
+        [
+          462.7934265136719,
+          118.51093292236328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6411,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          224.41456604003906,
+          201.64657592773438
+        ],
+        [
+          241.19261169433594,
+          252.083251953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5904,
+      "label": "GuaranaMiniPetAdv",
+      "points": [
+        [
+          461.9486083984375,
+          206.93475341796875
+        ],
+        [
+          477.488037109375,
+          254.86474609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.562,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          444.85333251953125,
+          0.0
+        ],
+        [
+          479.45343017578125,
+          55.5026741027832
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5617,
+      "label": "FardoColaAdv600ml",
+      "points": [
+        [
+          0.28009033203125,
+          531.52685546875
+        ],
+        [
+          41.26995849609375,
+          589.108642578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5465,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          76.91017150878906,
+          200.55775451660156
+        ],
+        [
+          94.74549865722656,
+          252.4809112548828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5394,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          418.1493835449219,
+          51.27251052856445
+        ],
+        [
+          439.9701843261719,
+          117.04011535644531
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5362,
+      "label": "FardoMiniPetAdv",
+      "points": [
+        [
+          398.96917724609375,
+          153.56134033203125
+        ],
+        [
+          459.79541015625,
+          203.09564208984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5217,
+      "label": "miniPetColaAdv",
+      "points": [
+        [
+          106.92329406738281,
+          199.90426635742188
+        ],
+        [
+          126.33323669433594,
+          252.86770629882812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5132,
+      "label": "FardoGuaranaAdv2L",
+      "points": [
+        [
+          444.76605224609375,
+          0.6674156188964844
+        ],
+        [
+          480.0,
+          56.36758041381836
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4983,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          459.8368835449219,
+          154.43685913085938
+        ],
+        [
+          479.8919372558594,
+          202.98092651367188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4721,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          177.5496826171875,
+          49.21892547607422
+        ],
+        [
+          190.28717041015625,
+          115.78536224365234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4653,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          0.21693038940429688,
+          530.758544921875
+        ],
+        [
+          43.388362884521484,
+          589.703369140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.434,
+      "label": "FardoGuaranaAdv600ml",
+      "points": [
+        [
+          399.5340576171875,
+          153.3545684814453
+        ],
+        [
+          458.7393798828125,
+          203.72630310058594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3952,
+      "label": "FardoMiniPetColaAdv",
+      "points": [
+        [
+          185.98208618164062,
+          150.103271484375
+        ],
+        [
+          240.62515258789062,
+          199.3372802734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3905,
+      "label": "GuaranaMiniPetAdv",
+      "points": [
+        [
+          403.9880065917969,
+          203.46798706054688
+        ],
+        [
+          423.4231872558594,
+          253.08749389648438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3646,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          0.22521209716796875,
+          468.27496337890625
+        ],
+        [
+          42.80836486816406,
+          530.6686401367188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3157,
+      "label": "GuaranaMineiro600ml",
+      "points": [
+        [
+          29.355146408081055,
+          53.11716079711914
+        ],
+        [
+          52.748382568359375,
+          116.1492919921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1093030_602732.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

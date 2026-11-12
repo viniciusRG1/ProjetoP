@@ -1,0 +1,67 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "águamineiro",
+      "confidence": 0.7644,
+      "points": [
+        [
+          0.249481201171875,
+          66.554931640625
+        ],
+        [
+          90.97151184082031,
+          371.4639892578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "águamineiro",
+      "confidence": 0.7042,
+      "points": [
+        [
+          71.59574890136719,
+          67.762939453125
+        ],
+        [
+          175.71405029296875,
+          366.9033203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv500ml",
+      "confidence": 0.6024,
+      "points": [
+        [
+          111.04171752929688,
+          409.231201171875
+        ],
+        [
+          182.624267578125,
+          571.3294677734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128200_603870.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

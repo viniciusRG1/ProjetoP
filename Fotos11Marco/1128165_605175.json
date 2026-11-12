@@ -1,0 +1,181 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.9579,
+      "points": [
+        [
+          158.3519287109375,
+          265.57196044921875
+        ],
+        [
+          211.6160888671875,
+          417.09271240234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.9517,
+      "points": [
+        [
+          105.33763122558594,
+          265.2353515625
+        ],
+        [
+          161.73289489746094,
+          412.86767578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.9393,
+      "points": [
+        [
+          209.903564453125,
+          261.94940185546875
+        ],
+        [
+          263.5595703125,
+          417.13739013671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.9029,
+      "points": [
+        [
+          41.851783752441406,
+          229.2724609375
+        ],
+        [
+          105.06661224365234,
+          389.66619873046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.8365,
+      "points": [
+        [
+          260.79962158203125,
+          257.4154052734375
+        ],
+        [
+          312.11907958984375,
+          417.29534912109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.7604,
+      "points": [
+        [
+          0.005756378173828125,
+          225.37185668945312
+        ],
+        [
+          43.630897521972656,
+          424.4864196777344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.7247,
+      "points": [
+        [
+          230.42764282226562,
+          0.0
+        ],
+        [
+          298.8083801269531,
+          63.246707916259766
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.7145,
+      "points": [
+        [
+          270.3121337890625,
+          440.85626220703125
+        ],
+        [
+          337.99627685546875,
+          584.1726684570312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaAdv2L",
+      "confidence": 0.6249,
+      "points": [
+        [
+          295.48895263671875,
+          0.0
+        ],
+        [
+          368.99920654296875,
+          65.04084777832031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1128165_605175.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}
