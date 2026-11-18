@@ -12,7 +12,7 @@ def inferir_e_gerar_json():
 
     modelo = YOLO(str(pesos))
 
-    pasta_origem = Path(r"Fotos11Marco")
+    pasta_origem = Path(r"FotosAprovadas")
     pasta_destino = Path(r"runs\inferencia_teste")
     pasta_destino.mkdir(parents=True, exist_ok=True)
 

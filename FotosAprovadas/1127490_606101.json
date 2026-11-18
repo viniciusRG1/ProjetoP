@@ -1,0 +1,904 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.9965,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          75.25660705566406,
+          240.49827575683594
+        ],
+        [
+          172.59434509277344,
+          347.2318115234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9948,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          170.61526489257812,
+          240.34869384765625
+        ],
+        [
+          259.3401184082031,
+          344.53997802734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9947,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          79.76905822753906,
+          348.8570556640625
+        ],
+        [
+          171.11570739746094,
+          441.396484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9946,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          177.73989868164062,
+          520.954833984375
+        ],
+        [
+          255.60031127929688,
+          604.72607421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9936,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          169.04513549804688,
+          347.1285400390625
+        ],
+        [
+          255.43728637695312,
+          438.3604736328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9917,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          86.10209655761719,
+          442.8798828125
+        ],
+        [
+          172.7904815673828,
+          530.4197998046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9915,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          94.61253356933594,
+          528.546875
+        ],
+        [
+          177.69749450683594,
+          611.062744140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9886,
+      "label": "FardoZap2L",
+      "points": [
+        [
+          171.60794067382812,
+          436.2823486328125
+        ],
+        [
+          253.01937866210938,
+          522.741455078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9638,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          256.0019226074219,
+          507.7933349609375
+        ],
+        [
+          330.0236511230469,
+          592.4122314453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9633,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          453.087158203125,
+          499.8193359375
+        ],
+        [
+          479.90679931640625,
+          573.4788818359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9469,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          328.451904296875,
+          500.94281005859375
+        ],
+        [
+          403.53582763671875,
+          583.5427856445312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9355,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          398.32049560546875,
+          503.2655029296875
+        ],
+        [
+          459.49627685546875,
+          584.3013916015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9085,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          321.359619140625,
+          77.11061096191406
+        ],
+        [
+          353.26434326171875,
+          187.96986389160156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8978,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          350.3970947265625,
+          79.35443115234375
+        ],
+        [
+          382.3331298828125,
+          188.45407104492188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8865,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          379.5601806640625,
+          82.05599975585938
+        ],
+        [
+          412.00439453125,
+          189.27786254882812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.861,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          255.98727416992188,
+          508.8846740722656
+        ],
+        [
+          328.6700134277344,
+          593.2369384765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8517,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          407.12646484375,
+          418.1854553222656
+        ],
+        [
+          469.40643310546875,
+          504.6031188964844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8476,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          408.35009765625,
+          320.64288330078125
+        ],
+        [
+          479.75927734375,
+          414.567626953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8295,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          291.901123046875,
+          74.2720947265625
+        ],
+        [
+          323.7318115234375,
+          187.46466064453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8067,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          329.7787170410156,
+          416.0898132324219
+        ],
+        [
+          408.8593444824219,
+          500.7546691894531
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7964,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          409.1611022949219,
+          81.5362548828125
+        ],
+        [
+          440.3575134277344,
+          189.88949584960938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6921,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          437.154052734375,
+          82.83099365234375
+        ],
+        [
+          469.36456298828125,
+          191.09292602539062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6914,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          255.98161247950088,
+          323.25164794921875
+        ],
+        [
+          335.10406426172744,
+          417.89642333984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6815,
+      "label": "Zap2L",
+      "points": [
+        [
+          71.7474136352539,
+          63.66986083984375
+        ],
+        [
+          107.66248321533203,
+          178.70895385742188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6671,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          460.4899777282851,
+          216.9933184855234
+        ],
+        [
+          480.0,
+          309.8985595703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6627,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          254.81197984181426,
+          418.84881659764756
+        ],
+        [
+          331.76962144337676,
+          509.3105475546788
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6378,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          469.670166015625,
+          95.76861572265625
+        ],
+        [
+          480.0,
+          189.35549926757812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6367,
+      "label": "Zap2L",
+      "points": [
+        [
+          170.39566040039062,
+          69.97447204589844
+        ],
+        [
+          202.68521118164062,
+          183.6559600830078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6138,
+      "label": "ColaAdv2L",
+      "points": [
+        [
+          261.5814208984375,
+          73.45347595214844
+        ],
+        [
+          295.1044921875,
+          186.64625549316406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6051,
+      "label": "Zap2L",
+      "points": [
+        [
+          138.9598846435547,
+          66.8079833984375
+        ],
+        [
+          171.73255920410156,
+          182.66607666015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5971,
+      "label": "Zap2L",
+      "points": [
+        [
+          107.42672729492188,
+          65.67970275878906
+        ],
+        [
+          140.61700439453125,
+          180.724365234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5909,
+      "label": "Zap2L",
+      "points": [
+        [
+          107.26152038574219,
+          65.50799560546875
+        ],
+        [
+          140.3389434814453,
+          180.38748168945312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5543,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          467.312744140625,
+          420.63037109375
+        ],
+        [
+          480.0,
+          500.46533203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5408,
+      "label": "Zap2L",
+      "points": [
+        [
+          138.91705322265625,
+          66.80996704101562
+        ],
+        [
+          171.79519653320312,
+          182.51376342773438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5148,
+      "label": "Zap2L",
+      "points": [
+        [
+          169.93313598632812,
+          70.92218017578125
+        ],
+        [
+          202.66372680664062,
+          183.55908203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4252,
+      "label": "Zap2L",
+      "points": [
+        [
+          202.30007934570312,
+          72.68463134765625
+        ],
+        [
+          233.99819946289062,
+          184.60186767578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4144,
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          331.8985290527344,
+          314.9165954589844
+        ],
+        [
+          409.6351623535156,
+          413.0161437988281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3188,
+      "label": "Zap2L",
+      "points": [
+        [
+          71.41062927246094,
+          63.48979187011719
+        ],
+        [
+          107.38594055175781,
+          179.49563598632812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Zap2L",
+      "points": [
+        [
+          248.0,
+          185.27166748046875
+        ],
+        [
+          238.11416625976562,
+          183.38583374023438
+        ],
+        [
+          234.61416625976562,
+          177.88583374023438
+        ],
+        [
+          234.49476623535156,
+          143.00523376464844
+        ],
+        [
+          233.0,
+          131.0
+        ],
+        [
+          233.61416625976562,
+          100.11416625976562
+        ],
+        [
+          235.61416625976562,
+          93.11416625976562
+        ],
+        [
+          242.38583374023438,
+          82.88583374023438
+        ],
+        [
+          242.61416625976562,
+          78.11416625976562
+        ],
+        [
+          246.00523376464844,
+          75.0
+        ],
+        [
+          250.88583374023438,
+          75.0
+        ],
+        [
+          254.38583374023438,
+          78.11416625976562
+        ],
+        [
+          255.6141357421875,
+          85.8858642578125
+        ],
+        [
+          263.3858337402344,
+          100.11416625976562
+        ],
+        [
+          264.3805847167969,
+          118.10893249511719
+        ],
+        [
+          263.4947509765625,
+          136.99476623535156
+        ],
+        [
+          257.3858337402344,
+          179.88583374023438
+        ],
+        [
+          253.88580322265625,
+          184.38580322265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdv",
+      "points": [
+        [
+          394.8858337402344,
+          306.3858337402344
+        ],
+        [
+          385.50518798828125,
+          303.99481201171875
+        ],
+        [
+          380.8858337402344,
+          298.6141662597656
+        ],
+        [
+          373.50518798828125,
+          294.99481201171875
+        ],
+        [
+          369.0,
+          288.8858337402344
+        ],
+        [
+          370.6141662597656,
+          252.11416625976562
+        ],
+        [
+          375.6089782714844,
+          239.1089630126953
+        ],
+        [
+          383.00518798828125,
+          227.5052032470703
+        ],
+        [
+          390.0052490234375,
+          225.0
+        ],
+        [
+          423.9999694824219,
+          225.0
+        ],
+        [
+          447.8858337402344,
+          226.61416625976562
+        ],
+        [
+          452.0,
+          229.27159118652344
+        ],
+        [
+          453.99481201171875,
+          227.73361206054688
+        ],
+        [
+          462.4947509765625,
+          249.00523376464844
+        ],
+        [
+          462.4947509765625,
+          259.9947509765625
+        ],
+        [
+          455.9947509765625,
+          302.4947509765625
+        ],
+        [
+          447.9947509765625,
+          305.4947509765625
+        ],
+        [
+          430.0052490234375,
+          303.5052490234375
+        ],
+        [
+          418.9947509765625,
+          305.4947509765625
+        ],
+        [
+          403.0052490234375,
+          304.5052490234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127490_606101.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}

@@ -1,0 +1,922 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.9904,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          278.229248046875,
+          99.1597671508789
+        ],
+        [
+          301.430419921875,
+          175.66775512695312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9864,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          345.15386962890625,
+          103.33645629882812
+        ],
+        [
+          369.50238037109375,
+          179.4737548828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9859,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          255.388427734375,
+          97.0834732055664
+        ],
+        [
+          277.65875244140625,
+          173.82101440429688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9821,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          302.6581115722656,
+          100.25860595703125
+        ],
+        [
+          324.5072326660156,
+          176.37838745117188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.977,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          323.81878662109375,
+          100.72198486328125
+        ],
+        [
+          347.20001220703125,
+          178.50054931640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9768,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          51.89623260498047,
+          384.46466064453125
+        ],
+        [
+          125.79621124267578,
+          453.70123291015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9754,
+      "label": "MineiroZero2L",
+      "points": [
+        [
+          52.81283187866211,
+          82.51661682128906
+        ],
+        [
+          78.23721313476562,
+          166.5066375732422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9738,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          119.63661193847656,
+          222.00999450683594
+        ],
+        [
+          195.4199676513672,
+          305.3494873046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9732,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          456.8555908203125,
+          370.68853759765625
+        ],
+        [
+          517.5325927734375,
+          431.61639404296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.973,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          158.00392150878906,
+          90.80216979980469
+        ],
+        [
+          181.8824920654297,
+          170.1238555908203
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9724,
+      "label": "MineiroZero2L",
+      "points": [
+        [
+          77.96615600585938,
+          82.34213256835938
+        ],
+        [
+          107.17202758789062,
+          167.60455322265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9723,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          40.08268737792969,
+          219.3214569091797
+        ],
+        [
+          121.99700927734375,
+          304.32086181640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9663,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          429.172607421875,
+          227.587158203125
+        ],
+        [
+          471.6368408203125,
+          300.826904296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9656,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          378.55438232421875,
+          371.92706298828125
+        ],
+        [
+          420.02178955078125,
+          437.56768798828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9642,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          231.15487670898438,
+          94.37893676757812
+        ],
+        [
+          255.98727416992188,
+          173.007568359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9637,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          246.37921142578125,
+          304.81317138671875
+        ],
+        [
+          292.90240478515625,
+          379.24676513671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9637,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          197.1673583984375,
+          382.17449951171875
+        ],
+        [
+          243.61505126953125,
+          448.0177001953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9621,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          245.10232543945312,
+          380.28466796875
+        ],
+        [
+          290.7828063964844,
+          447.232666015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9607,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          383.104736328125,
+          303.40301513671875
+        ],
+        [
+          426.7718505859375,
+          372.08380126953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.96,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          193.27767944335938,
+          307.0264892578125
+        ],
+        [
+          242.41943359375,
+          381.0897216796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9544,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          424.845703125,
+          302.0505065917969
+        ],
+        [
+          468.0205078125,
+          370.7852478027344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9536,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          195.91534423828125,
+          213.26181030273438
+        ],
+        [
+          244.654541015625,
+          307.2080383300781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.952,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          367.30841064453125,
+          104.14990234375
+        ],
+        [
+          391.8167724609375,
+          180.0367431640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9511,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          206.28256225585938,
+          92.49727630615234
+        ],
+        [
+          231.73861694335938,
+          172.15628051757812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9487,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          387.22283935546875,
+          222.17117309570312
+        ],
+        [
+          431.19647216796875,
+          303.0740051269531
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9477,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          182.2683563232422,
+          92.22662353515625
+        ],
+        [
+          206.4188995361328,
+          171.17312622070312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.947,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          418.4998779296875,
+          372.5544128417969
+        ],
+        [
+          458.4931640625,
+          434.9745788574219
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9464,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          464.36614990234375,
+          301.8704833984375
+        ],
+        [
+          526.705810546875,
+          367.2686767578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9412,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          312.5736083984375,
+          302.0185241699219
+        ],
+        [
+          385.781005859375,
+          373.3069152832031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9395,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          131.04266357421875,
+          82.84822082519531
+        ],
+        [
+          157.7808837890625,
+          168.97576904296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9305,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          409.5921630859375,
+          105.04344177246094
+        ],
+        [
+          434.46728515625,
+          181.3796844482422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9274,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          318.3443603515625,
+          222.5237274169922
+        ],
+        [
+          387.93585205078125,
+          302.40545654296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9268,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          471.7132873535156,
+          113.16748046875
+        ],
+        [
+          498.2973327636719,
+          183.11203002929688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9251,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          452.31939697265625,
+          112.2331771850586
+        ],
+        [
+          476.73321533203125,
+          182.84890747070312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9208,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          125.1295166015625,
+          383.05511474609375
+        ],
+        [
+          196.40908813476562,
+          452.35943603515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9202,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          469.754638671875,
+          226.37904357910156
+        ],
+        [
+          533.9779052734375,
+          301.501220703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9181,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          243.5589141845703,
+          209.9219970703125
+        ],
+        [
+          291.15277099609375,
+          305.352294921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8777,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          310.9677734375,
+          372.1388244628906
+        ],
+        [
+          379.5850830078125,
+          439.6280822753906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8754,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          513.2730712890625,
+          113.204833984375
+        ],
+        [
+          538.5169677734375,
+          184.51699829101562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8608,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          390.4551696777344,
+          106.2540054321289
+        ],
+        [
+          413.9393005371094,
+          179.91946411132812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8495,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          44.22918701171875,
+          306.74090576171875
+        ],
+        [
+          120.694091796875,
+          383.67169189453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8479,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          431.3130187988281,
+          109.97651672363281
+        ],
+        [
+          455.1543884277344,
+          183.1997528076172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8448,
+      "label": "MineiroZero2L",
+      "points": [
+        [
+          106.10635375976562,
+          86.12960815429688
+        ],
+        [
+          131.6749267578125,
+          168.28457641601562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8288,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          495.29425048828125,
+          112.95649719238281
+        ],
+        [
+          518.9273071289062,
+          187.09312438964844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7625,
+      "label": "FardoGuaranaMineiro2L",
+      "points": [
+        [
+          119.69293212890625,
+          306.964111328125
+        ],
+        [
+          191.45242070116865,
+          379.79966611018364
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6779,
+      "label": "MineiroZero2L",
+      "points": [
+        [
+          26.663223266601562,
+          81.44960021972656
+        ],
+        [
+          52.69622802734375,
+          164.8692169189453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4252,
+      "label": "GuaranaMineiro2L",
+      "points": [
+        [
+          532.6746826171875,
+          113.74034118652344
+        ],
+        [
+          557.9002685546875,
+          185.0463409423828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3356,
+      "label": "FrutaAdv2L",
+      "points": [
+        [
+          8.942802429199219,
+          83.47860717773438
+        ],
+        [
+          29.332130432128906,
+          163.19964599609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127595_603960.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

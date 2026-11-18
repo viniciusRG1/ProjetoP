@@ -1,0 +1,2844 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "confidence": 0.99,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          277.2392883300781,
+          153.80123901367188
+        ],
+        [
+          294.7632751464844,
+          187.06423950195312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.987,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          125.05136108398438,
+          111.72899627685547
+        ],
+        [
+          146.44009399414062,
+          148.46466064453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9866,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          164.923095703125,
+          112.8291015625
+        ],
+        [
+          185.10015869140625,
+          150.55355834960938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9857,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          278.36785888671875,
+          116.23738098144531
+        ],
+        [
+          295.93585205078125,
+          154.7285919189453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9735,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          184.75796508789062,
+          112.90882110595703
+        ],
+        [
+          203.83743286132812,
+          150.51934814453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9713,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          259.76837158203125,
+          586.8472900390625
+        ],
+        [
+          313.25238037109375,
+          620.6768798828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9699,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          106.31260681152344,
+          110.29606628417969
+        ],
+        [
+          125.99113464355469,
+          147.6641082763672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9676,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          207.16824340820312,
+          422.11138916015625
+        ],
+        [
+          258.7012939453125,
+          455.96673583984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9674,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          165.44857788085938,
+          150.69296264648438
+        ],
+        [
+          184.92276000976562,
+          184.64682006835938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9632,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          203.34188842773438,
+          113.41485595703125
+        ],
+        [
+          223.15774536132812,
+          150.73745727539062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9612,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.24908447265625,
+          354.60894775390625
+        ],
+        [
+          320.97064208984375,
+          390.38623046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9605,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          259.781005859375,
+          390.663330078125
+        ],
+        [
+          320.2069091796875,
+          425.36737060546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9585,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          204.42599487304688,
+          589.1326904296875
+        ],
+        [
+          258.6156005859375,
+          622.0836181640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9583,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          207.1309814453125,
+          523.9312744140625
+        ],
+        [
+          260.80804443359375,
+          557.6724853515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9561,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          145.3736114501953,
+          112.12969207763672
+        ],
+        [
+          165.8623809814453,
+          149.030029296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9558,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          184.61917114257812,
+          151.013427734375
+        ],
+        [
+          203.85769653320312,
+          184.99102783203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9524,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          295.839599609375,
+          116.64151000976562
+        ],
+        [
+          314.0615234375,
+          155.11358642578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.952,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          125.61405181884766,
+          149.11752319335938
+        ],
+        [
+          146.52066040039062,
+          182.42807006835938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9519,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.2200927734375,
+          492.56427001953125
+        ],
+        [
+          317.1881103515625,
+          524.4375610351562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9507,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.27764892578125,
+          426.25750732421875
+        ],
+        [
+          318.68572998046875,
+          459.91656494140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9495,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          205.12045288085938,
+          455.7862548828125
+        ],
+        [
+          260.3683776855469,
+          491.4620361328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9494,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          206.92242431640625,
+          491.66864013671875
+        ],
+        [
+          259.630126953125,
+          524.6351318359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9433,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          452.1554260253906
+        ],
+        [
+          33.267730712890625,
+          486.9671325683594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.943,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          209.15484619140625,
+          388.08953857421875
+        ],
+        [
+          259.5774841308594,
+          422.86395263671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9396,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          261.7514343261719,
+          524.8602294921875
+        ],
+        [
+          316.1318664550781,
+          557.638671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9383,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          202.7274169921875,
+          150.8038330078125
+        ],
+        [
+          222.5205078125,
+          185.13955688476562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.938,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          206.07479858398438,
+          557.0677490234375
+        ],
+        [
+          260.7231750488281,
+          590.0250244140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9369,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.99041748046875,
+          556.65625
+        ],
+        [
+          314.5450439453125,
+          587.552490234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9368,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          259.5069580078125,
+          317.05047607421875
+        ],
+        [
+          321.922607421875,
+          353.71380615234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9364,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          267.2315673828125
+        ],
+        [
+          25.940385818481445,
+          306.95733642578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9352,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          293.7662048339844,
+          153.79928588867188
+        ],
+        [
+          311.0454406738281,
+          187.22970581054688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9311,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.77001953125,
+          459.9966735839844
+        ],
+        [
+          318.21368408203125,
+          493.3013000488281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9272,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          209.6121826171875,
+          351.25653076171875
+        ],
+        [
+          259.44183349609375,
+          388.63238525390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9184,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          207.13351440429688,
+          272.1981201171875
+        ],
+        [
+          260.7158203125,
+          315.384765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.9094,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          260.83734130859375,
+          272.1793212890625
+        ],
+        [
+          324.77984619140625,
+          317.1082763671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8967,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          88.79461669921875,
+          310.44451904296875
+        ],
+        [
+          172.07126948775056,
+          343.94209354120267
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8883,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          208.53878784179688,
+          315.3602294921875
+        ],
+        [
+          259.6079406738281,
+          350.794677734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8815,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          145.510009765625,
+          148.7807159423828
+        ],
+        [
+          166.3194580078125,
+          182.9246063232422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.878,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          148.44163513183594,
+          485.666259765625
+        ],
+        [
+          205.6432342529297,
+          529.1609497070312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8756,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          370.41046142578125,
+          118.51559448242188
+        ],
+        [
+          388.10223388671875,
+          153.2347412109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8743,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          90.12925652246963,
+          347.3056342246006
+        ],
+        [
+          173.184855233853,
+          384.0311804008909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.863,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          406.66973876953125,
+          117.90533447265625
+        ],
+        [
+          427.5286865234375,
+          153.9498291015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.861,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          384.99822998046875,
+          478.84368896484375
+        ],
+        [
+          439.718505859375,
+          511.44525146484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8598,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          387.44671630859375,
+          447.80267333984375
+        ],
+        [
+          443.00421142578125,
+          479.7939453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8524,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          398.65625,
+          277.2033386230469
+        ],
+        [
+          457.83642578125,
+          313.2382507324219
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.851,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          366.9974670410156,
+          152.86019897460938
+        ],
+        [
+          384.9823303222656,
+          187.09231567382812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8333,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          222.6815643310547,
+          114.76644897460938
+        ],
+        [
+          241.24974060058594,
+          152.24395751953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8255,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          226.695068359375
+        ],
+        [
+          25.64105987548828,
+          267.27630615234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8226,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          358.96533203125,
+          311.98211669921875
+        ],
+        [
+          396.27374267578125,
+          348.44854736328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8126,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          221.61524963378906,
+          150.4554443359375
+        ],
+        [
+          240.78248596191406,
+          185.24209594726562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.8026,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          23.136253356933594,
+          231.40133666992188
+        ],
+        [
+          87.47269439697266,
+          274.17523193359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7945,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          392.31597832422744,
+          239.2322540283203
+        ],
+        [
+          463.48101738672744,
+          277.36322021484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7894,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          262.3238220214844,
+          91.11952209472656
+        ],
+        [
+          279.7593078613281,
+          118.75666809082031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7867,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          403.6275329589844,
+          154.90830993652344
+        ],
+        [
+          423.6344909667969,
+          187.04798889160156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7823,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          106.91291046142578,
+          148.23837280273438
+        ],
+        [
+          127.26534271240234,
+          182.00454711914062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7785,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          488.7691209958763
+        ],
+        [
+          36.21380846325167,
+          517.6614699331849
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7758,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          383.25054931640625,
+          510.42547607421875
+        ],
+        [
+          437.37249755859375,
+          542.9435424804688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7745,
+      "label": "GuaranaZeroAdvLata",
+      "points": [
+        [
+          425.7637939453125,
+          118.30531311035156
+        ],
+        [
+          444.8489990234375,
+          154.46824645996094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7726,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          90.00248718261719,
+          453.684326171875
+        ],
+        [
+          148.57815551757812,
+          487.0218505859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7623,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          88.43667602539062,
+          109.92755126953125
+        ],
+        [
+          106.821044921875,
+          146.97222900390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.756,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.1487579345703125,
+          576.541748046875
+        ],
+        [
+          44.704200744628906,
+          612.6026611328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7515,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          240.6026611328125,
+          149.8131103515625
+        ],
+        [
+          259.947021484375,
+          185.09759521484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7415,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          150.45094299316406,
+          526.4407958984375
+        ],
+        [
+          204.78590393066406,
+          561.6082763671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7334,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          381.4471435546875,
+          541.27490234375
+        ],
+        [
+          433.6558837890625,
+          572.535888671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7314,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          88.03756713867188,
+          232.01901245117188
+        ],
+        [
+          170.832763671875,
+          272.777587890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7308,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          350.8374328613281,
+          479.1859130859375
+        ],
+        [
+          385.5113830566406,
+          512.0982666015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7302,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          240.96380615234375,
+          115.02069854736328
+        ],
+        [
+          260.0858459472656,
+          151.49920654296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7287,
+      "label": "GuaranaZeroAdvLata",
+      "points": [
+        [
+          459.3214111328125,
+          155.33880615234375
+        ],
+        [
+          478.0765380859375,
+          187.999267578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7275,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          396.58349609375,
+          312.296142578125
+        ],
+        [
+          455.8287353515625,
+          348.862548828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7268,
+      "label": "GuaranaZeroAdvLata",
+      "points": [
+        [
+          422.3589782714844,
+          155.15159606933594
+        ],
+        [
+          441.4144592285156,
+          187.37696838378906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7204,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          88.14927673339844,
+          232.24807739257812
+        ],
+        [
+          171.04115295410156,
+          272.5553283691406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7111,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          383.9852600097656,
+          154.39019775390625
+        ],
+        [
+          403.9679260253906,
+          186.86300659179688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7093,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          27.355224609375,
+          310.34130859375
+        ],
+        [
+          88.19244384765625,
+          348.045654296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6988,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          89.1397705078125,
+          271.3809814453125
+        ],
+        [
+          159.94662475585938,
+          309.6947021484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6933,
+      "label": "GuaranaMineiroLata",
+      "points": [
+        [
+          259.63116455078125,
+          152.41351318359375
+        ],
+        [
+          277.97393798828125,
+          186.05889892578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6899,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          89.59486389160156,
+          383.76910400390625
+        ],
+        [
+          150.37403869628906,
+          420.03729248046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6805,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          389.030517578125,
+          414.593994140625
+        ],
+        [
+          445.739990234375,
+          449.9300537109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6756,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          349.3531494140625,
+          511.63702392578125
+        ],
+        [
+          383.10272216796875,
+          544.5746459960938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6749,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          26.801300048828125,
+          272.51348876953125
+        ],
+        [
+          88.40447998046875,
+          310.63580322265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6738,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          354.6089782714844,
+          382.7482604980469
+        ],
+        [
+          391.1874694824219,
+          416.3726501464844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6713,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          9.717109680175781,
+          145.5352783203125
+        ],
+        [
+          70.73496659242761,
+          182.47216035634744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6673,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          259.8097839355469,
+          117.89035034179688
+        ],
+        [
+          278.5069274902344,
+          153.01760864257812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6664,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          150.44171142578125,
+          526.9598388671875
+        ],
+        [
+          205.80841064453125,
+          561.5662841796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6566,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.4807586669921875,
+          547.230712890625
+        ],
+        [
+          42.51509094238281,
+          581.3314208984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6559,
+      "label": "FardoGuaranaMineiroLata",
+      "points": [
+        [
+          214.22140502929688,
+          246.29891967773438
+        ],
+        [
+          260.43389892578125,
+          271.4383850097656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6542,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          386.809326171875,
+          120.59210968017578
+        ],
+        [
+          403.6409912109375,
+          154.83856201171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6415,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          10.601336302895334,
+          108.97550111358575
+        ],
+        [
+          67.39420935412028,
+          147.9510022271715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6339,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          150.382080078125,
+          589.3942260742188
+        ],
+        [
+          203.88092041015625,
+          618.9988403320312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6248,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          348.596923828125,
+          543.53857421875
+        ],
+        [
+          381.25341796875,
+          572.489013671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.6178,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          391.5747985839844,
+          382.4319763183594
+        ],
+        [
+          447.2619934082031,
+          415.2936096191406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.615,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          45.24747085571289,
+          582.67919921875
+        ],
+        [
+          95.860107421875,
+          610.680908203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5973,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          259.5931396484375,
+          151.53494262695312
+        ],
+        [
+          278.0943603515625,
+          185.72946166992188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5927,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          244.3873291015625,
+          91.53329467773438
+        ],
+        [
+          262.6103820800781,
+          120.23028564453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5874,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          352.59344482421875,
+          447.0498962402344
+        ],
+        [
+          387.0194091796875,
+          479.8902282714844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5852,
+      "label": "GuaranaZeroAdvLata",
+      "points": [
+        [
+          440.6585998535156,
+          155.76937866210938
+        ],
+        [
+          460.2116394042969,
+          187.61911010742188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5848,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          380.77838134765625,
+          570.3589477539062
+        ],
+        [
+          431.97723388671875,
+          603.9877319335938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5741,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          445.10858154296875,
+          412.28897230662324
+        ],
+        [
+          480.0,
+          446.14297621287324
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5623,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          461.0078125,
+          119.74771118164062
+        ],
+        [
+          480.0,
+          156.40325927734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5521,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          443.1944580078125,
+          445.1187750937413
+        ],
+        [
+          480.0,
+          477.30334540624125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5451,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          447.82421875,
+          382.0788581015538
+        ],
+        [
+          480.0,
+          414.8959967734288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5437,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          95.85102844238281,
+          522.4686889648438
+        ],
+        [
+          149.04103088378906,
+          554.0899047851562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5388,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          307.67291259765625
+        ],
+        [
+          25.91997528076172,
+          343.9873046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5306,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.04395103454589844,
+          417.88665771484375
+        ],
+        [
+          29.869537353515625,
+          452.53509521484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5289,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          95.49253845214844,
+          554.3844604492188
+        ],
+        [
+          149.17906188964844,
+          585.5493774414062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5123,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          95.3419189453125,
+          584.2720947265625
+        ],
+        [
+          149.4853515625,
+          616.6397705078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5121,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          360.5225830078125,
+          275.37347412109375
+        ],
+        [
+          398.396240234375,
+          312.34429931640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5096,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          391.20806884765625,
+          347.7191162109375
+        ],
+        [
+          450.18157958984375,
+          382.9080810546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5058,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          353.50531005859375,
+          415.8266296386719
+        ],
+        [
+          388.66912841796875,
+          447.8132019042969
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5051,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          397.5606689453125,
+          277.57000732421875
+        ],
+        [
+          458.72259521484375,
+          312.792236328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4882,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          360.3904724121094,
+          275.5608825683594
+        ],
+        [
+          398.9776306152344,
+          312.1728210449219
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.485,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          356.40478515625,
+          347.227294921875
+        ],
+        [
+          392.3604736328125,
+          382.697998046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4695,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          392.5087890625,
+          347.3262634277344
+        ],
+        [
+          450.2962646484375,
+          383.5752258300781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4612,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          150.21405029296875,
+          560.30877617579
+        ],
+        [
+          204.64358520507812,
+          593.023864066415
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4389,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          75.37173461914062,
+          149.1710662841797
+        ],
+        [
+          91.67982482910156,
+          181.58937072753906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4337,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          28.902999877929688,
+          347.4368591308594
+        ],
+        [
+          88.28800964355469,
+          384.4476013183594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4184,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          88.87608337402344,
+          418.4951171875
+        ],
+        [
+          150.09344482421875,
+          453.806884765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4146,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          32.036827087402344,
+          419.979248046875
+        ],
+        [
+          89.21900939941406,
+          454.0169677734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4118,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          75.14178466796875,
+          112.0439453125
+        ],
+        [
+          90.27120971679688,
+          149.61773681640625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4077,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          388.1393127441406,
+          448.29534912109375
+        ],
+        [
+          443.7746887207031,
+          479.82330322265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4026,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          436.28363037109375,
+          511.7749003047136
+        ],
+        [
+          480.0,
+          546.4451883906511
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.4017,
+      "label": "FardoGuaranaAdvLata",
+      "points": [
+        [
+          92.60958862304688,
+          487.25177001953125
+        ],
+        [
+          148.6298828125,
+          523.0573120117188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3724,
+      "label": "FrutaAdvLata",
+      "points": [
+        [
+          145.77716064453125,
+          112.03843688964844
+        ],
+        [
+          165.681640625,
+          149.2446746826172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3685,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          30.59079933166504,
+          383.19293212890625
+        ],
+        [
+          89.45218658447266,
+          420.05853271484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3679,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          43.38389587402344,
+          549.520751953125
+        ],
+        [
+          96.04444885253906,
+          584.691162109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3545,
+      "label": "MineiroZeroLata",
+      "points": [
+        [
+          224.40979955456567,
+          90.04454342984411
+        ],
+        [
+          246.8882598876953,
+          116.53498840332031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3453,
+      "label": "GuaranaZeroAdvLata",
+      "points": [
+        [
+          430.10833740234375,
+          117.90753936767578
+        ],
+        [
+          458.47515869140625,
+          155.39434814453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3431,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          442.76947021484375,
+          118.68067932128906
+        ],
+        [
+          461.62750244140625,
+          156.2497100830078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3359,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          439.51873820077606,
+          480.913140311804
+        ],
+        [
+          480.0,
+          508.16433919723954
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.324,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          34.240814208984375,
+          453.3255615234375
+        ],
+        [
+          90.58091735839844,
+          487.2886962890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3188,
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          449.6224670410156,
+          348.30712890625006
+        ],
+        [
+          480.0,
+          386.25835189309583
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.3004,
+      "label": "GuaranaLataAdv",
+      "points": [
+        [
+          87.19526672363281,
+          149.00196838378906
+        ],
+        [
+          106.98295593261719,
+          181.7820281982422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5388,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          0.0,
+          347.7619994573444
+        ],
+        [
+          26.19153674832961,
+          380.6904231625835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.5388,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          1.1135857461024443,
+          383.3967433326228
+        ],
+        [
+          27.033561026864163,
+          419.71113542246655
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "confidence": 0.7785,
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          1.1135857461024443,
+          517.72235039454
+        ],
+        [
+          37.32739420935411,
+          546.6146993318486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          79.89106750488281,
+          520.380615234375
+        ],
+        [
+          73.99476623535156,
+          518.5052490234375
+        ],
+        [
+          42.0,
+          518.489501953125
+        ],
+        [
+          38.5052375793457,
+          516.9947509765625
+        ],
+        [
+          36.5052375793457,
+          511.9947509765625
+        ],
+        [
+          36.005271911621094,
+          488.5052795410156
+        ],
+        [
+          47.00523376464844,
+          486.0
+        ],
+        [
+          76.00523376464844,
+          488.4947509765625
+        ],
+        [
+          90.88056182861328,
+          487.61944580078125
+        ],
+        [
+          91.38579559326172,
+          516.8858032226562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoFrutaAdvLata",
+      "points": [
+        [
+          83.89106750488281,
+          550.380615234375
+        ],
+        [
+          43.5052375793457,
+          548.9947509765625
+        ],
+        [
+          41.61420440673828,
+          546.8858032226562
+        ],
+        [
+          40.5052375793457,
+          537.9947509765625
+        ],
+        [
+          40.61420440673828,
+          521.1141967773438
+        ],
+        [
+          49.00523376464844,
+          519.0
+        ],
+        [
+          58.885833740234375,
+          519.0
+        ],
+        [
+          69.10893249511719,
+          521.380615234375
+        ],
+        [
+          91.49476623535156,
+          519.0052490234375
+        ],
+        [
+          94.49476623535156,
+          524.0052490234375
+        ],
+        [
+          94.38056182861328,
+          547.8805541992188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          478.88580322265625,
+          578.3753051757812
+        ],
+        [
+          446.1141662597656,
+          577.3858032226562
+        ],
+        [
+          439.00518798828125,
+          572.7335815429688
+        ],
+        [
+          437.00518798828125,
+          575.2664184570312
+        ],
+        [
+          433.5052490234375,
+          569.9947509765625
+        ],
+        [
+          433.6141662597656,
+          547.1246948242188
+        ],
+        [
+          435.89111328125,
+          548.3805541992188
+        ],
+        [
+          440.8806457519531,
+          546.380615234375
+        ],
+        [
+          445.0052490234375,
+          543.0
+        ],
+        [
+          448.88580322265625,
+          543.0
+        ],
+        [
+          452.00518798828125,
+          546.2664184570312
+        ],
+        [
+          455.88580322265625,
+          543.0
+        ],
+        [
+          459.11419677734375,
+          547.3858032226562
+        ],
+        [
+          469.0,
+          545.7283325195312
+        ],
+        [
+          473.11419677734375,
+          548.3858032226562
+        ],
+        [
+          478.88055419921875,
+          548.6194458007812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          475.8858337402344,
+          349.3858337402344
+        ],
+        [
+          461.1141662597656,
+          349.3858337402344
+        ],
+        [
+          455.0,
+          345.88580322265625
+        ],
+        [
+          455.61419677734375,
+          319.11419677734375
+        ],
+        [
+          461.1141662597656,
+          314.6141662597656
+        ],
+        [
+          479.38055419921875,
+          315.11944580078125
+        ],
+        [
+          479.4947204589844,
+          346.9947204589844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          478.88055419921875,
+          314.38055419921875
+        ],
+        [
+          460.11419677734375,
+          313.38580322265625
+        ],
+        [
+          458.0,
+          310.88580322265625
+        ],
+        [
+          459.6141662597656,
+          282.1141662597656
+        ],
+        [
+          463.11419677734375,
+          278.0
+        ],
+        [
+          479.3805847167969,
+          280.1194152832031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FardoColaAdvLata",
+      "points": [
+        [
+          478.88580322265625,
+          277.3753356933594
+        ],
+        [
+          465.1141662597656,
+          276.3858337402344
+        ],
+        [
+          461.6141662597656,
+          273.8858337402344
+        ],
+        [
+          461.6141662597656,
+          251.11416625976562
+        ],
+        [
+          462.61419677734375,
+          244.11419677734375
+        ],
+        [
+          466.11419677734375,
+          241.0
+        ],
+        [
+          479.38055419921875,
+          241.11944580078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1127645_605471.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}
