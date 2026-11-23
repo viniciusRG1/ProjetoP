@@ -3,6 +3,7 @@ import os
 import random
 import shutil
 from pathlib import Path
+
 from ultralytics import YOLO
 
 ORIGEM_DIR = Path("FotosAprovadas")
@@ -199,17 +200,25 @@ names:
 
 
 def treinar(yaml_path):
-    modelo = YOLO("yolo11n.pt")
+    modelo = YOLO("yolo11s.pt")
     modelo.train(
         data=str(yaml_path),
         epochs=400,
+        patience=50,
         imgsz=640,
         batch=8,
+        degrees=25.0,
+        perspective = 0.0005,
+        shear = 5.0,
+        hsv_v=0.4,
+        hsv_s=0.7,
+        scale=0.5,
+        fliplr=0.5,
         workers=0,
         name="treino_garrafas",
         exist_ok=False,
         device=0,
-        val=False,
+        val=True,
         plots=False,
     )
 
