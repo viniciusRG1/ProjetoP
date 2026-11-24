@@ -200,7 +200,9 @@ names:
 
 
 def treinar(yaml_path):
-    modelo = YOLO("yolo11s.pt")
+    modelo = YOLO("yolo11n"
+                  ""
+                  ".pt")
     modelo.train(
         data=str(yaml_path),
         epochs=400,
