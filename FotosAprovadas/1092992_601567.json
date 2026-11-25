@@ -216,12 +216,12 @@
       "label": "FrutaAdv2L",
       "points": [
         [
-          113.58074951171875,
-          426.2293701171875
+          114.6943352578212,
+          425.11578437108506
         ],
         [
-          140.97091674804688,
-          507.44219970703125
+          142.08450249414932,
+          506.3286139609288
         ]
       ],
       "group_id": null,
@@ -498,14 +498,14 @@
     },
     {
       "confidence": 0.9638,
-      "label": "ColaAdv2L",
+      "label": "FrutaAdv2L",
       "points": [
         [
-          87.23448181152344,
+          89.46165330372833,
           426.07666015625
         ],
         [
-          114.99577331542969,
+          117.22294480763458,
           508.7119140625
         ]
       ],
@@ -1998,63 +1998,6 @@
       "mask": null
     },
     {
-      "confidence": 0.4006,
-      "label": "ColaAdv2L",
-      "points": [
-        [
-          16.058460235595703,
-          149.2711181640625
-        ],
-        [
-          42.722618103027344,
-          233.22332763671875
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "confidence": 0.3987,
-      "label": "FardoMiniPetAdv",
-      "points": [
-        [
-          395.37200927734375,
-          197.71286010742188
-        ],
-        [
-          438.37884521484375,
-          235.52969360351562
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "confidence": 0.3792,
-      "label": "ZeroAdv2L",
-      "points": [
-        [
-          86.16355895996094,
-          336.9619445800781
-        ],
-        [
-          112.32136535644531,
-          416.6179504394531
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
       "confidence": 0.3775,
       "label": "FardoMiniPetAdv",
       "points": [
@@ -2065,44 +2008,6 @@
         [
           476.69390869140625,
           235.06256103515625
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "confidence": 0.3713,
-      "label": "FardoFrutaAdv2L",
-      "points": [
-        [
-          113.90184020996094,
-          426.181640625
-        ],
-        [
-          140.2772216796875,
-          494.0318603515625
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "confidence": 0.3382,
-      "label": "FardoFrutaAdv2L",
-      "points": [
-        [
-          86.75895690917969,
-          426.54266357421875
-        ],
-        [
-          114.94035339355469,
-          509.06146240234375
         ]
       ],
       "group_id": null,

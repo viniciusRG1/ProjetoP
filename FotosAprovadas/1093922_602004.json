@@ -1,0 +1,219 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.8523,
+      "points": [
+        [
+          124.92764282226562,
+          303.66937255859375
+        ],
+        [
+          175.79562377929688,
+          439.13275146484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaMineiro2L",
+      "confidence": 0.8109,
+      "points": [
+        [
+          224.0968017578125,
+          296.76605224609375
+        ],
+        [
+          272.244140625,
+          440.18609619140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "FrutaMineiro2L",
+      "confidence": 0.7985,
+      "points": [
+        [
+          271.50518798828125,
+          294.01220703125
+        ],
+        [
+          321.18682861328125,
+          438.0001220703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "miniPetColaAdv",
+      "confidence": 0.7897,
+      "points": [
+        [
+          423.4372253417969,
+          553.936767578125
+        ],
+        [
+          479.4820251464844,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.7717,
+      "points": [
+        [
+          286.6490478515625,
+          201.69961547851562
+        ],
+        [
+          324.2618408203125,
+          268.41717529296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiroLata",
+      "confidence": 0.7009,
+      "points": [
+        [
+          250.99220275878906,
+          205.07159423828125
+        ],
+        [
+          287.1708984375,
+          269.41583251953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaAdv2L",
+      "confidence": 0.6866,
+      "points": [
+        [
+          132.29693603515625,
+          463.7002868652344
+        ],
+        [
+          179.53543090820312,
+          592.7774658203125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaGasMineiro500ml",
+      "confidence": 0.6866,
+      "points": [
+        [
+          178.36184692382812,
+          457.440185546875
+        ],
+        [
+          230.74295043945312,
+          591.2080078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "aguaAdv1,5L",
+      "confidence": 0.6847,
+      "points": [
+        [
+          229.66656494140625,
+          453.564208984375
+        ],
+        [
+          274.9969482421875,
+          597.9560546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "GuaranaMineiro2L",
+      "confidence": 0.6144,
+      "points": [
+        [
+          171.84182739257812,
+          299.6834411621094
+        ],
+        [
+          223.38827514648438,
+          439.3960266113281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "mineirobaby",
+      "confidence": 0.6109,
+      "points": [
+        [
+          213.866455078125,
+          131.27847290039062
+        ],
+        [
+          251.85427856445312,
+          206.92550659179688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1093922_602004.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 480
+}
